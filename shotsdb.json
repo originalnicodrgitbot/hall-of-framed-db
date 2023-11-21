@@ -82904,6 +82904,21 @@
       "spoiler": false,
       "colorName": "steelblue",
       "message_id": "1175554434428850358"
+    },
+    "5604": {
+      "gameName": "Robocop: Rogue City",
+      "shotUrl": "https://cdn.discordapp.com/attachments/549986930071175169/1175850661133430904/RoboCop-Win64-Shipping_2023-11-19_20-16-31.png?ex=656cbb43&is=655a4643&hm=dca9c19e1329c49a59498c8ca93ec049acdbd4d83c5cd5509f5729a9c857cdae&",
+      "height": 2700,
+      "width": 2025,
+      "thumbnailUrl": "https://cdn.discordapp.com/attachments/801558005283553320/1176661863237423145/thumbnailtemp.jpg?ex=656faec1&is=655d39c1&hm=dc675137e8c091a02eb63fbb7fabc2d496e1ec0edaf3ce9f6b3033eb3b54ff7b&",
+      "author": "475318080679968795",
+      "date": "2023-11-21T23:14:17.304339",
+      "score": 30,
+      "ID": 5528,
+      "epochTime": 1700608457,
+      "spoiler": false,
+      "colorName": "crimson",
+      "message_id": 1175850661301207042
     }
   }
 }
