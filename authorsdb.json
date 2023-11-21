@@ -103,10 +103,12 @@
       "authorid": "128245457141891072",
       "authorsAvatarUrl": "https://cdn.discordapp.com/avatars/128245457141891072/459763f9cdb2931260de9ebf5a2c540a.png?size=1024",
       "flickr": "https://www.flickr.com/people/159245572@N07/",
-      "twitter": "",
+      "twitter": "https://twitter.com/originalnicodr",
       "instagram": "",
       "steam": "https://steamcommunity.com/id/originalnicodr/",
-      "othersocials": []
+      "othersocials": [
+        "https://originalnicodr.github.io/"
+      ]
     },
     "11": {
       "authorNick": "nuvolari",
