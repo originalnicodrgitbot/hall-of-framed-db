@@ -82844,6 +82844,21 @@
       "spoiler": false,
       "colorName": "lightsalmon",
       "message_id": 1176589734357778432
+    },
+    "5608": {
+      "gameName": "Alan Wake 2",
+      "shotUrl": "https://cdn.discordapp.com/attachments/549986930071175169/1175174815288660148/AlanWake2_2023-11-17_06-52-13.png?ex=656a45d5&is=6557d0d5&hm=eb2511262e00fa334dad583f6b8cde446eae215d9b8683f5ff43f88d5ea71031&",
+      "height": 1620,
+      "width": 1087,
+      "thumbnailUrl": "https://cdn.discordapp.com/attachments/801558005283553320/1176973211058053201/thumbnailtemp.jpg?ex=6570d0b8&is=655e5bb8&hm=4a1f1c531b47da8d35658af34f1182cb8a2fe6dd7f8948201458bb8df8e76da3&",
+      "author": "80738520422944768",
+      "date": "2023-11-22T19:51:24.546456",
+      "score": 30,
+      "ID": 5524,
+      "epochTime": 1700682684,
+      "spoiler": false,
+      "colorName": "khaki",
+      "message_id": 1175174815821352980
     }
   }
 }
