@@ -82964,6 +82964,21 @@
       "spoiler": false,
       "colorName": "darkkhaki",
       "message_id": 1177288936054341632
+    },
+    "5616": {
+      "gameName": "Red Dead Redemption 2",
+      "shotUrl": "https://cdn.discordapp.com/attachments/549986930071175169/1178433804948471849/RDR2_2023-11-26_06-51-302.png?ex=65762101&is=6563ac01&hm=9d21cdee2fb6ab21e322108034d722c7ad0ddc2192bd274c99ad19c349529786&",
+      "height": 1080,
+      "width": 864,
+      "thumbnailUrl": "https://cdn.discordapp.com/attachments/801558005283553320/1178651933695803434/thumbnailtemp.jpg?ex=6576ec27&is=65647727&hm=d5810b0fe15620d6cc9aca9835a2a1245c2ab62a8a49d1b03a99d4f7d0f26d97&",
+      "author": "80738520422944768",
+      "date": "2023-11-27T11:02:06.944365",
+      "score": 30,
+      "ID": 5532,
+      "epochTime": 1701082926,
+      "spoiler": false,
+      "colorName": "gainsboro",
+      "message_id": 1178433805342740591
     }
   }
 }
