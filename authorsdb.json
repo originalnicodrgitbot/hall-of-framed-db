@@ -2712,11 +2712,13 @@
       "authorNick": "belegarsson",
       "authorid": "142170955630772225",
       "authorsAvatarUrl": "https://cdn.discordapp.com/avatars/142170955630772225/96d163af159e92fe9ed8723d640b3b69.png?size=1024",
-      "flickr": "",
-      "twitter": "",
+      "flickr": "https://www.flickr.com/photos/belegarsson115/",
+      "twitter": "https://twitter.com/belegarsson115",
       "instagram": "",
-      "steam": "",
-      "othersocials": ""
+      "steam": "https://steamcommunity.com/id/Masterchiefs/",
+      "othersocials": [
+        "https://bsky.app/profile/belegarsson.bsky.social"
+      ]
     },
     "259": {
       "authorNick": "seymourglass.",
