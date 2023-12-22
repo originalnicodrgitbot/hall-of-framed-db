@@ -83609,6 +83609,21 @@
       "spoiler": false,
       "colorName": "goldenrod",
       "message_id": 1186782820442570752
+    },
+    "5660": {
+      "gameName": "Cyberpunk 2077",
+      "shotUrl": "https://cdn.framedsc.com/images/1703211136_Dredd6.1.png",
+      "height": 1600,
+      "width": 1080,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1703211136_Dredd6.1.png",
+      "author": "349272662901522444",
+      "date": "2023-12-22T02:12:16.392754",
+      "score": 30,
+      "ID": 5575,
+      "epochTime": 1703211136,
+      "spoiler": false,
+      "colorName": "chocolate",
+      "message_id": 1187132505032233060
     }
   }
 }
