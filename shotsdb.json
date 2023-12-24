@@ -83849,6 +83849,21 @@
       "spoiler": false,
       "colorName": "burlywood",
       "message_id": 1182698351108575323
+    },
+    "5676": {
+      "gameName": "Uncharted: The Lost Legacy",
+      "shotUrl": "https://cdn.framedsc.com/images/1703454352_tll_2023-12-03_18-21-32.PNG",
+      "height": 1600,
+      "width": 2518,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1703454352_tll_2023-12-03_18-21-32.PNG",
+      "author": "310528138067181572",
+      "date": "2023-12-24T21:45:52.490534",
+      "score": 32,
+      "ID": 5591,
+      "epochTime": 1703454352,
+      "spoiler": false,
+      "colorName": "rosybrown",
+      "message_id": 1182680719168909382
     }
   }
 }
