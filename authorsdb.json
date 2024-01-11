@@ -2749,6 +2749,28 @@
       "instagram": "",
       "steam": "",
       "othersocials": ""
+    },
+    "262": {
+      "authorNick": "hoffman_vp",
+      "authorid": "590342347737268225",
+      "authorsAvatarUrl": "https://cdn.discordapp.com/avatars/590342347737268225/48a60db48d1e7f8d9d95b496a0488f59.png?size=1024",
+      "flickr": "",
+      "twitter": "https://twitter.com/hoffman_vp",
+      "instagram": "",
+      "steam": "",
+      "othersocials": []
+    },
+    "263": {
+      "authorNick": "shiroijenkins",
+      "authorid": "112662598645751808",
+      "authorsAvatarUrl": "https://cdn.discordapp.com/avatars/112662598645751808/3d6e01d41323cbcbf1d08eaa05b2341f.png?size=1024",
+      "flickr": "",
+      "twitter": "http://twitter.com/Shiroi_Jenkins",
+      "instagram": "https://www.instagram.com/apertures.and.apexes/",
+      "steam": "",
+      "othersocials": [
+        "https://www.artstation.com/shiroi_jenkins"
+      ]
     }
   }
 }
