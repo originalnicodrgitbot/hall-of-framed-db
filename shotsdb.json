@@ -84584,6 +84584,21 @@
       "spoiler": false,
       "colorName": "lightcoral",
       "message_id": 1193526999612928061
+    },
+    "5725": {
+      "gameName": "Death Stranding",
+      "shotUrl": "https://cdn.framedsc.com/images/1705007376_Death_Stranding_Directors_Cut_Screenshot_2023.12.16_-_15.37.18.12.png",
+      "height": 3000,
+      "width": 2400,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1705007376_Death_Stranding_Directors_Cut_Screenshot_2023.12.16_-_15.37.18.12.png",
+      "author": "540875144277786624",
+      "date": "2024-01-11T21:09:36.478422",
+      "score": 28,
+      "ID": 5640,
+      "epochTime": 1705007376,
+      "spoiler": false,
+      "colorName": "grey",
+      "message_id": 1193551902160470026
     }
   }
 }
