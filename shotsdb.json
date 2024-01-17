@@ -84661,7 +84661,7 @@
       "message_id": 1194662315031805963
     },
     "5730": {
-      "gameName": "Cyberpunk 2077: Phantom Liberty",
+      "gameName": "Cyberpunk 2077",
       "shotUrl": "https://cdn.framedsc.com/images/1705008126_Cyberpunk2077_2024-01-06_14-41-23.PNG",
       "height": 1948,
       "width": 1600,
@@ -84974,21 +84974,6 @@
       "spoiler": false,
       "colorName": "darkorchid",
       "message_id": 1196791103865757829
-    },
-    "5752": {
-      "gameName": "Avatar: Frontiers of Pandora",
-      "shotUrl": "https://cdn.framedsc.com/images/1705471649_afop_2024-01-09_00-51-20e.png",
-      "height": 1607,
-      "width": 3840,
-      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1705471649_afop_2024-01-09_00-51-20e.png",
-      "author": "163919378285461504",
-      "date": "2024-01-17T06:07:29.754603",
-      "score": 28,
-      "ID": 5666,
-      "epochTime": 1705471649,
-      "spoiler": false,
-      "colorName": "silver",
-      "message_id": 1196312385129033818
     }
   }
 }
