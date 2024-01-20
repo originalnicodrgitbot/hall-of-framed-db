@@ -85109,6 +85109,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1197981589548826735
+    },
+    "5763": {
+      "gameName": "Elden Ring",
+      "shotUrl": "https://cdn.framedsc.com/images/1705771354_Rays_of_Gold.png",
+      "height": 3000,
+      "width": 2400,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1705771354_Rays_of_Gold.png",
+      "author": "364473042111561730",
+      "date": "2024-01-20T17:22:34.661186",
+      "score": 30,
+      "ID": 5675,
+      "epochTime": 1705771354,
+      "spoiler": false,
+      "colorName": "darkkhaki",
+      "message_id": 1197981607223636098
     }
   }
 }
