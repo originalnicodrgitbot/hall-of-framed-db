@@ -85064,6 +85064,21 @@
       "spoiler": false,
       "colorName": "dimgrey",
       "message_id": 1197238345571512470
+    },
+    "5760": {
+      "gameName": "Guilty Gear -Strive-",
+      "shotUrl": "https://cdn.framedsc.com/images/1705770962_GGST-Win64-Shipping_2024-01-18_16-48-18.png",
+      "height": 5000,
+      "width": 4000,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1705770962_GGST-Win64-Shipping_2024-01-18_16-48-18.png",
+      "author": "690174967811276802",
+      "date": "2024-01-20T17:16:02.070204",
+      "score": 28,
+      "ID": 5672,
+      "epochTime": 1705770962,
+      "spoiler": false,
+      "colorName": "indianred",
+      "message_id": 1197600006132207618
     }
   }
 }
