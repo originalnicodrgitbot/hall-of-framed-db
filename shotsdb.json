@@ -85124,6 +85124,21 @@
       "spoiler": false,
       "colorName": "darkkhaki",
       "message_id": 1197981607223636098
+    },
+    "5764": {
+      "gameName": "Elden Ring",
+      "shotUrl": "https://cdn.framedsc.com/images/1705771380_Age_of_Stars.png",
+      "height": 3000,
+      "width": 2400,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1705771380_Age_of_Stars.png",
+      "author": "364473042111561730",
+      "date": "2024-01-20T17:23:00.576255",
+      "score": 40,
+      "ID": 5676,
+      "epochTime": 1705771380,
+      "spoiler": false,
+      "colorName": "rosybrown",
+      "message_id": 1197981684621119579
     }
   }
 }
