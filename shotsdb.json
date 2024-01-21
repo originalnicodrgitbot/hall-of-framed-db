@@ -85184,6 +85184,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1198296917013180446
+    },
+    "5768": {
+      "gameName": "Baldur's Gate 3",
+      "shotUrl": "https://cdn.framedsc.com/images/1705843015_Baldurs_Gate_3_Screenshot_2024.01.19_-_08.10.36.73_copy.png",
+      "height": 3200,
+      "width": 6400,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1705843015_Baldurs_Gate_3_Screenshot_2024.01.19_-_08.10.36.73_copy.png",
+      "author": "415478928833118260",
+      "date": "2024-01-21T13:16:55.701947",
+      "score": 28,
+      "ID": 5680,
+      "epochTime": 1705843015,
+      "spoiler": false,
+      "colorName": "slategrey",
+      "message_id": 1197961068878762156
     }
   }
 }
