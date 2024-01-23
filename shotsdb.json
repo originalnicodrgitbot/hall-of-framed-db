@@ -85334,6 +85334,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1198312224985456743
+    },
+    "5778": {
+      "gameName": "Resident Evil 4 Remake",
+      "shotUrl": "https://cdn.framedsc.com/images/1706048205_re4.exe_2024-01-16_21-29-35_883_DOF.png",
+      "height": 3960,
+      "width": 2970,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1706048205_re4.exe_2024-01-16_21-29-35_883_DOF.png",
+      "author": "576442964163690527",
+      "date": "2024-01-23T22:16:45.598688",
+      "score": 28,
+      "ID": 5690,
+      "epochTime": 1706048205,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1198383776535941312
     }
   }
 }
