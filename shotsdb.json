@@ -86279,6 +86279,21 @@
       "spoiler": false,
       "colorName": "rosybrown",
       "message_id": 1207022067736641586
+    },
+    "5841": {
+      "gameName": "Genshin Impact",
+      "shotUrl": "https://cdn.framedsc.com/images/1707935464_Genshin_Impact_Screenshot_2023.11.10_-_19.53.31.24-2.png",
+      "height": 2160,
+      "width": 3840,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1707935464_Genshin_Impact_Screenshot_2023.11.10_-_19.53.31.24-2.png",
+      "author": "540875144277786624",
+      "date": "2024-02-14T18:31:04.629326",
+      "score": 28,
+      "ID": 5753,
+      "epochTime": 1707935464,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1206619492407451728
     }
   }
 }
