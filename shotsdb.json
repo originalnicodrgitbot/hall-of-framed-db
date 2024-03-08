@@ -87974,6 +87974,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1215362475839717436
+    },
+    "5954": {
+      "gameName": "Elden Ring",
+      "shotUrl": "https://cdn.framedsc.com/images/1709908776_Fading_Energies.png",
+      "height": 2700,
+      "width": 2160,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1709908776_Fading_Energies.png",
+      "author": "433917542906724352",
+      "date": "2024-03-08T14:39:36.018365",
+      "score": 28,
+      "ID": 5866,
+      "epochTime": 1709908776,
+      "spoiler": false,
+      "colorName": "dimgrey",
+      "message_id": 1215556864641859654
     }
   }
 }
