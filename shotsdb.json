@@ -88064,6 +88064,21 @@
       "spoiler": false,
       "colorName": "darkkhaki",
       "message_id": 1216132075783196792
+    },
+    "5960": {
+      "gameName": "INDIKA",
+      "shotUrl": "https://cdn.framedsc.com/images/1710055364_Indika-Win64-Shipping_2024-03-09_14-19-24.png",
+      "height": 1440,
+      "width": 3361,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1710055364_Indika-Win64-Shipping_2024-03-09_14-19-24.png",
+      "author": "188691759470084097",
+      "date": "2024-03-10T07:22:44.015930",
+      "score": 28,
+      "ID": 5872,
+      "epochTime": 1710055364,
+      "spoiler": false,
+      "colorName": "gold",
+      "message_id": 1216132080732340356
     }
   }
 }
