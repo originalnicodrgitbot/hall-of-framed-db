@@ -2798,11 +2798,14 @@
       "authorNick": ".amoebae.",
       "authorid": "240872609237958667",
       "authorsAvatarUrl": "https://cdn.discordapp.com/avatars/240872609237958667/171369da07cf207b87507d743dffb807.png?size=1024",
-      "flickr": "",
-      "twitter": "",
-      "instagram": "",
-      "steam": "",
-      "othersocials": ""
+      "flickr": "https://www.flickr.com/photos/amoebae/albums/",
+      "twitter": "https://twitter.com/pictureamoebae",
+      "instagram": "https://www.instagram.com/pictureamoebae/",
+      "steam": "https://steamcommunity.com/id/pictureamoebae/",
+      "othersocials": [
+        "https://bsky.app/profile/amoebae.bsky.social",
+        "https://pictureamoebae.tumblr.com/"
+      ]
     }
   }
 }
