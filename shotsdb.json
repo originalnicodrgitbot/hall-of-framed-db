@@ -88574,6 +88574,21 @@
       "spoiler": false,
       "colorName": "gainsboro",
       "message_id": 1218689056490131508
+    },
+    "5994": {
+      "gameName": "Sifu",
+      "shotUrl": "https://cdn.framedsc.com/images/1710726956_Sifu_Screenshot_2024-03-16_21-50-15.png",
+      "height": 3240,
+      "width": 2592,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1710726956_Sifu_Screenshot_2024-03-16_21-50-15.png",
+      "author": "770718209913389096",
+      "date": "2024-03-18T01:55:56.468495",
+      "score": 28,
+      "ID": 5906,
+      "epochTime": 1710726956,
+      "spoiler": false,
+      "colorName": "seagreen",
+      "message_id": 1218816094173659207
     }
   }
 }
