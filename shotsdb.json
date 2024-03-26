@@ -89414,6 +89414,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1221522566624055356
+    },
+    "6050": {
+      "gameName": "Assetto Corsa",
+      "shotUrl": "https://cdn.framedsc.com/images/1711427518_17_50_46.png",
+      "height": 1440,
+      "width": 2560,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1711427518_17_50_46.png",
+      "author": "440620170235346987",
+      "date": "2024-03-26T04:31:58.153039",
+      "score": 33,
+      "ID": 5962,
+      "epochTime": 1711427518,
+      "spoiler": false,
+      "colorName": "peru",
+      "message_id": 1221526560796971078
     }
   }
 }
