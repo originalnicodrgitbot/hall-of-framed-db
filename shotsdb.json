@@ -89714,6 +89714,21 @@
       "spoiler": false,
       "colorName": "gainsboro",
       "message_id": 1222244111520628809
+    },
+    "6070": {
+      "gameName": "The Witcher 3",
+      "shotUrl": "https://cdn.framedsc.com/images/1711563116_witcher3_2024-02-25_18-31-53.png",
+      "height": 1728,
+      "width": 4032,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1711563116_witcher3_2024-02-25_18-31-53.png",
+      "author": "576442964163690527",
+      "date": "2024-03-27T18:11:56.386907",
+      "score": 28,
+      "ID": 5982,
+      "epochTime": 1711563116,
+      "spoiler": false,
+      "colorName": "peru",
+      "message_id": 1221216827007307806
     }
   }
 }
