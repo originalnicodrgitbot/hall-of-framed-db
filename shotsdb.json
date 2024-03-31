@@ -90044,6 +90044,21 @@
       "spoiler": false,
       "colorName": "pink",
       "message_id": 1222949899998335109
+    },
+    "6092": {
+      "gameName": "Cyberpunk 2077",
+      "shotUrl": "https://cdn.framedsc.com/images/1711926250_page.png",
+      "height": 3743,
+      "width": 2495,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1711926250_page.png",
+      "author": "727947925535195137",
+      "date": "2024-03-31T23:04:10.925898",
+      "score": 35,
+      "ID": 6004,
+      "epochTime": 1711926250,
+      "spoiler": false,
+      "colorName": "lightgrey",
+      "message_id": 1222949931489427606
     }
   }
 }
