@@ -90119,6 +90119,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1223189070751076424
+    },
+    "6097": {
+      "gameName": "Sleeping Dogs: Definitive Edition",
+      "shotUrl": "https://cdn.framedsc.com/images/1711926618_Sleeping_Dogs_Definitive_Edition_Screenshot_2024.03.29_-_16.44.23.30.png",
+      "height": 2400,
+      "width": 1920,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1711926618_Sleeping_Dogs_Definitive_Edition_Screenshot_2024.03.29_-_16.44.23.30.png",
+      "author": "764427456856981544",
+      "date": "2024-03-31T23:10:18.111220",
+      "score": 28,
+      "ID": 6009,
+      "epochTime": 1711926618,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1223320534666842162
     }
   }
 }
