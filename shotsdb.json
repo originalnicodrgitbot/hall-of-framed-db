@@ -89849,6 +89849,21 @@
       "spoiler": false,
       "colorName": "gainsboro",
       "message_id": 1222221362157064252
+    },
+    "6079": {
+      "gameName": "Death Stranding",
+      "shotUrl": "https://cdn.framedsc.com/images/1711925577_Death_Stranding_Screenshot_2023.11.21_-_15.09.42.90.png",
+      "height": 2160,
+      "width": 1620,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1711925577_Death_Stranding_Screenshot_2023.11.21_-_15.09.42.90.png",
+      "author": "764427456856981544",
+      "date": "2024-03-31T22:52:57.197021",
+      "score": 29,
+      "ID": 5991,
+      "epochTime": 1711925577,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1222253840116613180
     }
   }
 }
