@@ -89894,6 +89894,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1222542721714225283
+    },
+    "6082": {
+      "gameName": "Jagged Alliance 3",
+      "shotUrl": "https://cdn.framedsc.com/images/1711925744_Screenshot0008.png",
+      "height": 2880,
+      "width": 2880,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1711925744_Screenshot0008.png",
+      "author": "415478928833118260",
+      "date": "2024-03-31T22:55:44.329149",
+      "score": 34,
+      "ID": 5994,
+      "epochTime": 1711925744,
+      "spoiler": false,
+      "colorName": "wheat",
+      "message_id": 1222542730635247677
     }
   }
 }
