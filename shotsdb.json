@@ -90494,6 +90494,21 @@
       "spoiler": false,
       "colorName": "darkolivegreen",
       "message_id": 1224820348587868272
+    },
+    "6122": {
+      "gameName": "Dragon's Dogma 2",
+      "shotUrl": "https://cdn.framedsc.com/images/1712447660_DD2_2024-04-03_22-54-22_edit.png",
+      "height": 1440,
+      "width": 1152,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1712447660_DD2_2024-04-03_22-54-22_edit.png",
+      "author": "188691759470084097",
+      "date": "2024-04-06T23:54:20.825689",
+      "score": 29,
+      "ID": 6034,
+      "epochTime": 1712447660,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1225199624562802698
     }
   }
 }
