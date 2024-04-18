@@ -91064,6 +91064,21 @@
       "spoiler": false,
       "colorName": "sienna",
       "message_id": 1229128937293217893
+    },
+    "6160": {
+      "gameName": "Sekiro",
+      "shotUrl": "https://cdn.framedsc.com/images/1713406475_RZ-SEKIRO_SHADOWS_DIE_TWICE_Screenshot_2024.04.13_-_14.15.47.11-Enhanced-SR.png",
+      "height": 1600,
+      "width": 3840,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1713406475_RZ-SEKIRO_SHADOWS_DIE_TWICE_Screenshot_2024.04.13_-_14.15.47.11-Enhanced-SR.png",
+      "author": "296171707360870401",
+      "date": "2024-04-18T02:14:35.810533",
+      "score": 29,
+      "ID": 6072,
+      "epochTime": 1713406475,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1229162334136569988
     }
   }
 }
