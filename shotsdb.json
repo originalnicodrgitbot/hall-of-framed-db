@@ -91094,6 +91094,21 @@
       "spoiler": false,
       "colorName": "sienna",
       "message_id": 1229175493698256977
+    },
+    "6162": {
+      "gameName": "Banishers: Ghosts of New Eden",
+      "shotUrl": "https://cdn.framedsc.com/images/1713406604_Banishers-Win64-Shipping_2024-04-14_00-45-04_stitch.png",
+      "height": 2660,
+      "width": 5084,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1713406604_Banishers-Win64-Shipping_2024-04-14_00-45-04_stitch.png",
+      "author": "220206083136946176",
+      "date": "2024-04-18T02:16:44.424693",
+      "score": 30,
+      "ID": 6074,
+      "epochTime": 1713406604,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1229470774386102302
     }
   }
 }
