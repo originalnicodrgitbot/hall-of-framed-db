@@ -92369,6 +92369,21 @@
       "spoiler": false,
       "colorName": "sandybrown",
       "message_id": 1235197433521115247
+    },
+    "6247": {
+      "gameName": "Star Citizen",
+      "shotUrl": "https://cdn.framedsc.com/images/1714703494_53077868094_d667e920de_o.png",
+      "height": 3000,
+      "width": 2400,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1714703494_53077868094_d667e920de_o.png",
+      "author": "207168185353371648",
+      "date": "2024-05-03T02:31:34.093450",
+      "score": 35,
+      "ID": 6159,
+      "epochTime": 1714703494,
+      "spoiler": false,
+      "colorName": "burlywood",
+      "message_id": 1235259368925302905
     }
   }
 }
