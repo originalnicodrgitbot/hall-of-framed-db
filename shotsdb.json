@@ -92504,6 +92504,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1236064642535657483
+    },
+    "6256": {
+      "gameName": "Chernobylite",
+      "shotUrl": "https://cdn.framedsc.com/images/1715060584_ChernobylGame-Win64-Shipping_2024_05_04_02_25_29_920.png",
+      "height": 2700,
+      "width": 2250,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1715060584_ChernobylGame-Win64-Shipping_2024_05_04_02_25_29_920.png",
+      "author": "563078211676930078",
+      "date": "2024-05-07T05:43:04.247558",
+      "score": 28,
+      "ID": 6168,
+      "epochTime": 1715060584,
+      "spoiler": false,
+      "colorName": "grey",
+      "message_id": 1236126681257742430
     }
   }
 }
