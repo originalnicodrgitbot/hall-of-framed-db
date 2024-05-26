@@ -508,7 +508,7 @@
       ]
     },
     "47": {
-      "authorNick": "eulkeke",
+      "authorNick": "Keke",
       "authorid": "207168185353371648",
       "authorsAvatarUrl": "https://cdn.discordapp.com/avatars/207168185353371648/a_17da729ab03420b13c0a8bcde4d1fe79.gif?size=1024",
       "flickr": "https://www.flickr.com/photos/145952534@N06/",
@@ -2860,6 +2860,18 @@
       "instagram": "",
       "steam": "https://steamcommunity.com/id/adrian28",
       "othersocials": []
+    },
+    "272": {
+      "authorNick": "xam3l",
+      "authorid": "449972853534883851",
+      "authorsAvatarUrl": "https://cdn.discordapp.com/avatars/449972853534883851/b12a07f32732555334a9f41f7f833391.png?size=1024",
+      "flickr": "",
+      "twitter": "",
+      "instagram": "https://www.instagram.com/xam3lpt/",
+      "steam": "",
+      "othersocials": [
+        "https://xam3l.myportfolio.com/"
+      ]
     }
   }
 }
