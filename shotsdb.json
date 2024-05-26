@@ -93194,6 +93194,21 @@
       "spoiler": false,
       "colorName": "lightskyblue",
       "message_id": 1240655903624138812
+    },
+    "6302": {
+      "gameName": "INDIKA",
+      "shotUrl": "https://cdn.framedsc.com/images/1716697720_INDIKA_4.png",
+      "height": 3500,
+      "width": 3000,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1716697720_INDIKA_4.png",
+      "author": "690174967811276802",
+      "date": "2024-05-26T04:28:40.439976",
+      "score": 33,
+      "ID": 6214,
+      "epochTime": 1716697720,
+      "spoiler": false,
+      "colorName": "gainsboro",
+      "message_id": 1240661451329507348
     }
   }
 }
