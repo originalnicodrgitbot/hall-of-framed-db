@@ -93704,6 +93704,21 @@
       "spoiler": false,
       "colorName": "tomato",
       "message_id": 1244313512411660328
+    },
+    "6336": {
+      "gameName": "Ghost of Tsushima",
+      "shotUrl": "https://cdn.framedsc.com/images/1716839159_GhostOfTsushima_2024-05-22_20-56-06-2.png",
+      "height": 2160,
+      "width": 2560,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1716839159_GhostOfTsushima_2024-05-22_20-56-06-2.png",
+      "author": "484611749799133185",
+      "date": "2024-05-27T19:45:59.668458",
+      "score": 28,
+      "ID": 6248,
+      "epochTime": 1716839159,
+      "spoiler": false,
+      "colorName": "lightgrey",
+      "message_id": 1244418555865469002
     }
   }
 }
