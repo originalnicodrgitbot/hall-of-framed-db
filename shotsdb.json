@@ -93764,6 +93764,21 @@
       "spoiler": false,
       "colorName": "goldenrod",
       "message_id": 1235305165280641045
+    },
+    "6340": {
+      "gameName": "Assassin's Creed Origins",
+      "shotUrl": "https://cdn.framedsc.com/images/1716931249_ACOrigins_2024_05_25_22_02_37_634.png",
+      "height": 2160,
+      "width": 1728,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1716931249_ACOrigins_2024_05_25_22_02_37_634.png",
+      "author": "563078211676930078",
+      "date": "2024-05-28T21:20:49.312129",
+      "score": 28,
+      "ID": 6252,
+      "epochTime": 1716931249,
+      "spoiler": false,
+      "colorName": "paleturquoise",
+      "message_id": 1244052410939346974
     }
   }
 }
