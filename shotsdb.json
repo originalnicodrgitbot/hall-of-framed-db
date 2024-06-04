@@ -94049,6 +94049,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1246426941536600114
+    },
+    "6359": {
+      "gameName": "Ghost of Tsushima Director's Cut",
+      "shotUrl": "https://cdn.framedsc.com/images/1717515990_53766152679_a220944324_o.png",
+      "height": 2466,
+      "width": 5760,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1717515990_53766152679_a220944324_o.png",
+      "author": "550054109286498325",
+      "date": "2024-06-04T15:46:30.484361",
+      "score": 29,
+      "ID": 6271,
+      "epochTime": 1717515990,
+      "spoiler": false,
+      "colorName": "gainsboro",
+      "message_id": 1247159900015034411
     }
   }
 }
