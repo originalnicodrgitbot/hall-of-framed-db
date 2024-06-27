@@ -94484,6 +94484,21 @@
       "spoiler": false,
       "colorName": "gainsboro",
       "message_id": 1254429720724901919
+    },
+    "6389": {
+      "gameName": "Elden Ring",
+      "shotUrl": "https://cdn.framedsc.com/images/1719453924_eldenring_2024-06-22_15-47-50.png",
+      "height": 2560,
+      "width": 5120,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1719453924_eldenring_2024-06-22_15-47-50.png",
+      "author": "142170955630772225",
+      "date": "2024-06-27T02:05:24.897339",
+      "score": 30,
+      "ID": 6300,
+      "epochTime": 1719453924,
+      "spoiler": false,
+      "colorName": "tan",
+      "message_id": 1254429792590364682
     }
   }
 }
