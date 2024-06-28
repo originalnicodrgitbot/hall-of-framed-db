@@ -94559,6 +94559,21 @@
       "spoiler": false,
       "colorName": "chocolate",
       "message_id": 1254411792185032775
+    },
+    "6394": {
+      "gameName": "Elden Ring",
+      "shotUrl": "https://cdn.framedsc.com/images/1719603524_eldenring_2024-06-23_10-01-49.png",
+      "height": 3780,
+      "width": 3780,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1719603524_eldenring_2024-06-23_10-01-49.png",
+      "author": "80738520422944768",
+      "date": "2024-06-28T19:38:44.148816",
+      "score": 28,
+      "ID": 6305,
+      "epochTime": 1719603524,
+      "spoiler": false,
+      "colorName": "darkkhaki",
+      "message_id": 1254537155884089435
     }
   }
 }
