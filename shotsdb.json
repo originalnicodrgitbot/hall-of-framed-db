@@ -94574,6 +94574,21 @@
       "spoiler": false,
       "colorName": "darkkhaki",
       "message_id": 1254537155884089435
+    },
+    "6395": {
+      "gameName": "Elden Ring",
+      "shotUrl": "https://cdn.framedsc.com/images/1719603570_Shadow_of_The_Erdtree_Final.png",
+      "height": 5399,
+      "width": 5399,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1719603570_Shadow_of_The_Erdtree_Final.png",
+      "author": "80738520422944768",
+      "date": "2024-06-28T19:39:30.060919",
+      "score": 28,
+      "ID": 6306,
+      "epochTime": 1719603570,
+      "spoiler": false,
+      "colorName": "burlywood",
+      "message_id": 1254537204047282206
     }
   }
 }
