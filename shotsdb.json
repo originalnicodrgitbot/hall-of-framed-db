@@ -94769,6 +94769,21 @@
       "spoiler": false,
       "colorName": "darkgrey",
       "message_id": 1257504797439950948
+    },
+    "6408": {
+      "gameName": "Russian Soul Simulator",
+      "shotUrl": "https://cdn.framedsc.com/images/1720056824_RussianSoulSimulator_2024-07-02_13-35-21.png",
+      "height": 2160,
+      "width": 2160,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1720056824_RussianSoulSimulator_2024-07-02_13-35-21.png",
+      "author": "199118181082595329",
+      "date": "2024-07-04T01:33:44.331795",
+      "score": 28,
+      "ID": 6319,
+      "epochTime": 1720056824,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1257671777979600927
     }
   }
 }
