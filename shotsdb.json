@@ -94814,6 +94814,21 @@
       "spoiler": false,
       "colorName": "wheat",
       "message_id": 1256347431730413578
+    },
+    "6411": {
+      "gameName": "Gran Turismo 7",
+      "shotUrl": "https://cdn.framedsc.com/images/1720823546_Gran_TurismoTM_7_20240605225908.png",
+      "height": 1600,
+      "width": 3840,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1720823546_Gran_TurismoTM_7_20240605225908.png",
+      "author": "540875144277786624",
+      "date": "2024-07-12T22:32:26.156814",
+      "score": 29,
+      "ID": 6322,
+      "epochTime": 1720823546,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1256871986374901880
     }
   }
 }
