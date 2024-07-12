@@ -95054,6 +95054,21 @@
       "spoiler": false,
       "colorName": "lavenderblush",
       "message_id": 1258485186941681905
+    },
+    "6427": {
+      "gameName": "Cyberpunk 2077",
+      "shotUrl": "https://cdn.framedsc.com/images/1720824528_sasha.png",
+      "height": 2762,
+      "width": 2072,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1720824528_sasha.png",
+      "author": "727947925535195137",
+      "date": "2024-07-12T22:48:48.361405",
+      "score": 29,
+      "ID": 6338,
+      "epochTime": 1720824528,
+      "spoiler": false,
+      "colorName": "gainsboro",
+      "message_id": 1258485212116025535
     }
   }
 }
