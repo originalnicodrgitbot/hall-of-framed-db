@@ -2519,7 +2519,7 @@
       "authorNick": "Long-Harpy",
       "authorid": "287893831976747009",
       "authorsAvatarUrl": "https://cdn.discordapp.com/avatars/287893831976747009/3096a6cd6826a745f0048aba1da3a5da.png?size=1024",
-      "flickr": "",
+      "flickr": "https://www.flickr.com/photos/198987859@N03/",
       "twitter": "https://twitter.com/longharpy_VP",
       "instagram": "",
       "steam": "",
@@ -2873,6 +2873,18 @@
       "steam": "",
       "othersocials": [
         "https://xam3l.myportfolio.com/"
+      ]
+    },
+    "273": {
+      "authorNick": "KEMO/virtual photographer",
+      "authorid": "522983767061561355",
+      "authorsAvatarUrl": "https://cdn.discordapp.com/avatars/522983767061561355/c0a59a0865220dc2f13aa15098f01730.png?size=1024",
+      "flickr": "",
+      "twitter": "",
+      "instagram": "",
+      "steam": "",
+      "othersocials": [
+        "https://x.com/kem_ono_mimi?s=21&t=ScCgLAZE-r6sVlISpA8PSw"
       ]
     }
   }
