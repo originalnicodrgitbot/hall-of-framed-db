@@ -95624,6 +95624,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1263976249806553248
+    },
+    "6465": {
+      "gameName": "Elden Ring",
+      "shotUrl": "https://cdn.framedsc.com/images/1721501372_ER_DLC32.png",
+      "height": 2160,
+      "width": 1440,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1721501372_ER_DLC32.png",
+      "author": "390590082685468674",
+      "date": "2024-07-20T18:49:32.491868",
+      "score": 28,
+      "ID": 6376,
+      "epochTime": 1721501372,
+      "spoiler": false,
+      "colorName": "lightgrey",
+      "message_id": 1264175638844014712
     }
   }
 }
