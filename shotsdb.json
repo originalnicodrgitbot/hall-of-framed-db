@@ -95729,6 +95729,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1265053623222665216
+    },
+    "6472": {
+      "gameName": "Ghost of Tsushima",
+      "shotUrl": "https://cdn.framedsc.com/images/1721857497_Samurai_FINAL.png",
+      "height": 3780,
+      "width": 2835,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1721857497_Samurai_FINAL.png",
+      "author": "80738520422944768",
+      "date": "2024-07-24T21:44:57.534786",
+      "score": 32,
+      "ID": 6383,
+      "epochTime": 1721857497,
+      "spoiler": false,
+      "colorName": "gainsboro",
+      "message_id": 1265053654713634928
     }
   }
 }
