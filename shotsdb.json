@@ -95834,6 +95834,21 @@
       "spoiler": false,
       "colorName": "peru",
       "message_id": 1265366198103834634
+    },
+    "6479": {
+      "gameName": "Nobody Wants to Die",
+      "shotUrl": "https://cdn.framedsc.com/images/1722290740_7.png",
+      "height": 3240,
+      "width": 2430,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1722290740_7.png",
+      "author": "727947925535195137",
+      "date": "2024-07-29T22:05:40.768166",
+      "score": 28,
+      "ID": 6390,
+      "epochTime": 1722290740,
+      "spoiler": false,
+      "colorName": "dimgrey",
+      "message_id": 1265366219612094504
     }
   }
 }
