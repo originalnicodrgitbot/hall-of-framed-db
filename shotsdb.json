@@ -96374,6 +96374,21 @@
       "spoiler": false,
       "colorName": "darkgrey",
       "message_id": 1271853880052944918
+    },
+    "6515": {
+      "gameName": "Marvel's Guardians of the Galaxy",
+      "shotUrl": "https://cdn.framedsc.com/images/1723683487_gotg_2024-08-10_02-08-15_stitch.png",
+      "height": 2532,
+      "width": 5063,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1723683487_gotg_2024-08-10_02-08-15_stitch.png",
+      "author": "220206083136946176",
+      "date": "2024-08-15T00:58:07.599063",
+      "score": 28,
+      "ID": 6426,
+      "epochTime": 1723683487,
+      "spoiler": false,
+      "colorName": "thistle",
+      "message_id": 1271865326602289235
     }
   }
 }
