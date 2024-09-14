@@ -925,12 +925,15 @@
     "86": {
       "authorNick": "K-putt",
       "authorid": "148838862070743040",
-      "authorsAvatarUrl": "https://cdn.discordapp.com/avatars/148838862070743040/d0dad15a40bbfc8b6f3ea227f78cdcf5.webp?size=1024",
+      "authorsAvatarUrl": "https://cdn.discordapp.com/avatars/148838862070743040/d0dad15a40bbfc8b6f3ea227f78cdcf5.png?size=1024",
       "flickr": "",
       "twitter": "",
       "instagram": "",
       "steam": "",
-      "othersocials": ""
+      "othersocials": [
+        "https://x.com/Kputt",
+        "https://bsky.app/profile/k-putt.bsky.social"
+      ]
     },
     "87": {
       "authorNick": "ziftarn",
@@ -2946,6 +2949,18 @@
       "othersocials": [
         "https://bsky.app/profile/ofseaandstars.co.uk",
         "https://links.ofseaandstars.co.uk"
+      ]
+    },
+    "279": {
+      "authorNick": "Mistress-light",
+      "authorid": "277908122935492609",
+      "authorsAvatarUrl": "https://cdn.discordapp.com/avatars/277908122935492609/603bbf3a3fd62ffc9d38aab5026ff09b.png?size=1024",
+      "flickr": "",
+      "twitter": "",
+      "instagram": "",
+      "steam": "",
+      "othersocials": [
+        "https://www.picashot.co/Mistress_light"
       ]
     }
   }
