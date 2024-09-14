@@ -96869,6 +96869,21 @@
       "spoiler": false,
       "colorName": "lightsteelblue",
       "message_id": 1280222949000876146
+    },
+    "6548": {
+      "gameName": "Rise of the Tomb Raider",
+      "shotUrl": "https://cdn.framedsc.com/images/1726349177_ROTTR_2024-09-02_20-17-37_stitch.png",
+      "height": 2553,
+      "width": 5106,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1726349177_ROTTR_2024-09-02_20-17-37_stitch.png",
+      "author": "220206083136946176",
+      "date": "2024-09-14T21:26:17.147780",
+      "score": 28,
+      "ID": 6459,
+      "epochTime": 1726349177,
+      "spoiler": false,
+      "colorName": "paleturquoise",
+      "message_id": 1280225613961105480
     }
   }
 }
