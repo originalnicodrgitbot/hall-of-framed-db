@@ -97094,6 +97094,21 @@
       "spoiler": false,
       "colorName": "goldenrod",
       "message_id": 1282773657059463170
+    },
+    "6563": {
+      "gameName": "Astro Bot",
+      "shotUrl": "https://cdn.framedsc.com/images/1726350901_ASTRO_BOT_20240908223048_.png",
+      "height": 1783,
+      "width": 2378,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1726350901_ASTRO_BOT_20240908223048_.png",
+      "author": "220323301065490433",
+      "date": "2024-09-14T21:55:01.368126",
+      "score": 30,
+      "ID": 6474,
+      "epochTime": 1726350901,
+      "spoiler": false,
+      "colorName": "lightpink",
+      "message_id": 1283066812019249203
     }
   }
 }
