@@ -97244,6 +97244,21 @@
       "spoiler": false,
       "colorName": "gainsboro",
       "message_id": 1285285819153911938
+    },
+    "6573": {
+      "gameName": "Armored Core 6",
+      "shotUrl": "https://cdn.framedsc.com/images/1727046709_ARMORED_CORE_VI_FIRES_OF_RUBICON_Screenshot_2024.08.10_-_20.55.31.39.png",
+      "height": 1080,
+      "width": 864,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1727046709_ARMORED_CORE_VI_FIRES_OF_RUBICON_Screenshot_2024.08.10_-_20.55.31.39.png",
+      "author": "764427456856981544",
+      "date": "2024-09-22T23:11:49.509124",
+      "score": 30,
+      "ID": 6484,
+      "epochTime": 1727046709,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1285285850736758808
     }
   }
 }
