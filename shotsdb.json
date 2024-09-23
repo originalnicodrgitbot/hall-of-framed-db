@@ -97469,6 +97469,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1287093032566521897
+    },
+    "6588": {
+      "gameName": "Black Myth: Wukong",
+      "shotUrl": "https://cdn.framedsc.com/images/1727082058_b1-Win64-Shipping_2024-09-16_00-28-44.png",
+      "height": 1920,
+      "width": 1440,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1727082058_b1-Win64-Shipping_2024-09-16_00-28-44.png",
+      "author": "163919378285461504",
+      "date": "2024-09-23T09:00:58.389688",
+      "score": 28,
+      "ID": 6499,
+      "epochTime": 1727082058,
+      "spoiler": false,
+      "colorName": "lightgrey",
+      "message_id": 1286727482287980669
     }
   }
 }
