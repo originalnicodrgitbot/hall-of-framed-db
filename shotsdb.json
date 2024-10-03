@@ -97964,6 +97964,21 @@
       "spoiler": false,
       "colorName": "darkgrey",
       "message_id": 1290717416753463297
+    },
+    "6621": {
+      "gameName": "Shadow of the Tomb Raider",
+      "shotUrl": "https://cdn.framedsc.com/images/1727970817_SOTTR_2024-10-01_18-18-11_stitch.png",
+      "height": 2551,
+      "width": 5102,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1727970817_SOTTR_2024-10-01_18-18-11_stitch.png",
+      "author": "220206083136946176",
+      "date": "2024-10-03T15:53:37.470251",
+      "score": 31,
+      "ID": 6532,
+      "epochTime": 1727970817,
+      "spoiler": false,
+      "colorName": "lightblue",
+      "message_id": 1290717454896726127
     }
   }
 }
