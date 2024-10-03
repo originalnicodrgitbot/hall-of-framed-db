@@ -97649,6 +97649,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1288246237187014667
+    },
+    "6600": {
+      "gameName": "Final Fantasy XVI",
+      "shotUrl": "https://cdn.framedsc.com/images/1727969405_ffxvi_2024-09-22_17-34-33.PNG",
+      "height": 1785,
+      "width": 1600,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1727969405_ffxvi_2024-09-22_17-34-33.PNG",
+      "author": "310528138067181572",
+      "date": "2024-10-03T15:30:05.219575",
+      "score": 31,
+      "ID": 6511,
+      "epochTime": 1727969405,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1288525006833324042
     }
   }
 }
