@@ -97739,6 +97739,21 @@
       "spoiler": false,
       "colorName": "thistle",
       "message_id": 1288891291525976086
+    },
+    "6606": {
+      "gameName": "DOOM Eternal",
+      "shotUrl": "https://cdn.framedsc.com/images/1727969691_DOOMEternalx64vk-2024-09-26-10-24-15-2.png",
+      "height": 1708,
+      "width": 1366,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1727969691_DOOMEternalx64vk-2024-09-26-10-24-15-2.png",
+      "author": "197446843972452352",
+      "date": "2024-10-03T15:34:51.700541",
+      "score": 31,
+      "ID": 6517,
+      "epochTime": 1727969691,
+      "spoiler": false,
+      "colorName": "chocolate",
+      "message_id": 1288939027222761555
     }
   }
 }
