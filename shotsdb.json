@@ -98354,6 +98354,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1292145245546348546
+    },
+    "6647": {
+      "gameName": "God of War: Ragnar\u00f6k",
+      "shotUrl": "https://cdn.framedsc.com/images/1728438116_GoWR_2024-10-05_17-39-29_stitch.png",
+      "height": 4054,
+      "width": 3243,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1728438116_GoWR_2024-10-05_17-39-29_stitch.png",
+      "author": "220206083136946176",
+      "date": "2024-10-09T01:41:56.715580",
+      "score": 28,
+      "ID": 6558,
+      "epochTime": 1728438116,
+      "spoiler": false,
+      "colorName": "lightcyan",
+      "message_id": 1292165189101158465
     }
   }
 }
