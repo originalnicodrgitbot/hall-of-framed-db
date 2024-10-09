@@ -98429,6 +98429,21 @@
       "spoiler": false,
       "colorName": "darkgrey",
       "message_id": 1292523399159091210
+    },
+    "6652": {
+      "gameName": "Elden Ring",
+      "shotUrl": "https://cdn.framedsc.com/images/1728438482_202.png",
+      "height": 1620,
+      "width": 3840,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1728438482_202.png",
+      "author": "158655628531859456",
+      "date": "2024-10-09T01:48:02.246391",
+      "score": 29,
+      "ID": 6563,
+      "epochTime": 1728438482,
+      "spoiler": false,
+      "colorName": "sienna",
+      "message_id": 1292537223450988625
     }
   }
 }
