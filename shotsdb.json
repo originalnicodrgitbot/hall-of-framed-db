@@ -98474,6 +98474,21 @@
       "spoiler": true,
       "colorName": "silver",
       "message_id": 1292563316090343485
+    },
+    "6655": {
+      "gameName": "The Last of Us Part 1",
+      "shotUrl": "https://cdn.framedsc.com/images/1728438597_tlou-i_2024-09-29_13-59-58.png",
+      "height": 2880,
+      "width": 5760,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1728438597_tlou-i_2024-09-29_13-59-58.png",
+      "author": "576442964163690527",
+      "date": "2024-10-09T01:49:57.584864",
+      "score": 28,
+      "ID": 6566,
+      "epochTime": 1728438597,
+      "spoiler": false,
+      "colorName": "darkkhaki",
+      "message_id": 1292598780595540020
     }
   }
 }
