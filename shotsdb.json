@@ -98369,6 +98369,21 @@
       "spoiler": false,
       "colorName": "lightcyan",
       "message_id": 1292165189101158465
+    },
+    "6648": {
+      "gameName": "Syberia: The World Before",
+      "shotUrl": "https://cdn.framedsc.com/images/1728438214_SyberiaTWB_2024-10-02_00-01-04_edit.png",
+      "height": 1440,
+      "width": 3360,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1728438214_SyberiaTWB_2024-10-02_00-01-04_edit.png",
+      "author": "188691759470084097",
+      "date": "2024-10-09T01:43:34.548837",
+      "score": 32,
+      "ID": 6559,
+      "epochTime": 1728438214,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1292262909187194900
     }
   }
 }
