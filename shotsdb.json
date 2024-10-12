@@ -98699,6 +98699,21 @@
       "spoiler": false,
       "colorName": "sandybrown",
       "message_id": 1293685312698187857
+    },
+    "6670": {
+      "gameName": "Silent Hill 2 Remake",
+      "shotUrl": "https://cdn.framedsc.com/images/1728697114_SHProto-Win64-Shipping_Screenshot_2024.10.07_-_18.04.13.69.png",
+      "height": 1080,
+      "width": 1440,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1728697114_SHProto-Win64-Shipping_Screenshot_2024.10.07_-_18.04.13.69.png",
+      "author": "764427456856981544",
+      "date": "2024-10-12T01:38:34.036823",
+      "score": 28,
+      "ID": 6581,
+      "epochTime": 1728697114,
+      "spoiler": false,
+      "colorName": "dimgrey",
+      "message_id": 1293281469644669061
     }
   }
 }
