@@ -98834,6 +98834,21 @@
       "spoiler": false,
       "colorName": "gainsboro",
       "message_id": 1295136490841444466
+    },
+    "6679": {
+      "gameName": "Final Fantasy XVI",
+      "shotUrl": "https://cdn.framedsc.com/images/1729128773_ffxvi_2024-10-12_15-12-44.PNG",
+      "height": 1600,
+      "width": 3450,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1729128773_ffxvi_2024-10-12_15-12-44.PNG",
+      "author": "310528138067181572",
+      "date": "2024-10-17T01:32:53.585817",
+      "score": 28,
+      "ID": 6590,
+      "epochTime": 1729128773,
+      "spoiler": false,
+      "colorName": "slategrey",
+      "message_id": 1294732161290731685
     }
   }
 }
