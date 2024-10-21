@@ -99209,6 +99209,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1297245471814717471
+    },
+    "6704": {
+      "gameName": "Hogwarts Legacy",
+      "shotUrl": "https://cdn.framedsc.com/images/1729474941_HogwartsLegacy_2024-10-19_21-39-09.png",
+      "height": 2160,
+      "width": 1728,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1729474941_HogwartsLegacy_2024-10-19_21-39-09.png",
+      "author": "149145360156196864",
+      "date": "2024-10-21T01:42:21.179731",
+      "score": 31,
+      "ID": 6615,
+      "epochTime": 1729474941,
+      "spoiler": false,
+      "colorName": "rosybrown",
+      "message_id": 1297324161416564747
     }
   }
 }
