@@ -99389,6 +99389,21 @@
       "spoiler": false,
       "colorName": "darkgrey",
       "message_id": 1297531229595500617
+    },
+    "6716": {
+      "gameName": "Wayfinder",
+      "shotUrl": "https://cdn.framedsc.com/images/1729734033_Wayfinder_2024-10-21_21-07-28.png",
+      "height": 2700,
+      "width": 2160,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1729734033_Wayfinder_2024-10-21_21-07-28.png",
+      "author": "475318080679968795",
+      "date": "2024-10-24T01:40:33.726537",
+      "score": 28,
+      "ID": 6627,
+      "epochTime": 1729734033,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1297995745575829626
     }
   }
 }
