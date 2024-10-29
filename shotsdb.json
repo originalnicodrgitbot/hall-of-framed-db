@@ -99839,6 +99839,21 @@
       "spoiler": false,
       "colorName": "lightsteelblue",
       "message_id": 1299817340808204360
+    },
+    "6746": {
+      "gameName": "Stray",
+      "shotUrl": "https://cdn.framedsc.com/images/1730237040_20241026_213200.jpg",
+      "height": 1645,
+      "width": 3840,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1730237040_20241026_213200.jpg",
+      "author": "417334153978052608",
+      "date": "2024-10-29T21:24:00.807051",
+      "score": 28,
+      "ID": 6657,
+      "epochTime": 1730237040,
+      "spoiler": false,
+      "colorName": "darkolivegreen",
+      "message_id": 1299818003965149295
     }
   }
 }
