@@ -100334,6 +100334,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1302021566636228749
+    },
+    "6779": {
+      "gameName": "Life is Strange: Double Exposure",
+      "shotUrl": "https://cdn.framedsc.com/images/1730808639_Chronos-Win64-Shipping_2024-10-21_00-30-47.png",
+      "height": 3240,
+      "width": 4860,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1730808639_Chronos-Win64-Shipping_2024-10-21_00-30-47.png",
+      "author": "576442964163690527",
+      "date": "2024-11-05T12:10:39.514432",
+      "score": 29,
+      "ID": 6690,
+      "epochTime": 1730808639,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1302046571831099412
     }
   }
 }
