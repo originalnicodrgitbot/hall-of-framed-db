@@ -100364,6 +100364,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1302323261803073579
+    },
+    "6781": {
+      "gameName": "Alan Wake 2",
+      "shotUrl": "https://cdn.framedsc.com/images/1730808825_AlanWake2_2024-11-01_04-52-06.png",
+      "height": 1438,
+      "width": 3360,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1730808825_AlanWake2_2024-11-01_04-52-06.png",
+      "author": "80738520422944768",
+      "date": "2024-11-05T12:13:45.500035",
+      "score": 33,
+      "ID": 6692,
+      "epochTime": 1730808825,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1302392289091391488
     }
   }
 }
