@@ -100574,6 +100574,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1301844584111800390
+    },
+    "6795": {
+      "gameName": "Silent Hill 2",
+      "shotUrl": "https://cdn.framedsc.com/images/1730981380_27.png",
+      "height": 2925,
+      "width": 2925,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1730981380_27.png",
+      "author": "475318080679968795",
+      "date": "2024-11-07T12:09:40.646890",
+      "score": 28,
+      "ID": 6706,
+      "epochTime": 1730981380,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1303297435468169316
     }
   }
 }
