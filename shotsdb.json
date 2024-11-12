@@ -101204,6 +101204,21 @@
       "spoiler": false,
       "colorName": "gainsboro",
       "message_id": 1305063059076808704
+    },
+    "6837": {
+      "gameName": "Silent Hill 2",
+      "shotUrl": "https://cdn.framedsc.com/images/1731413576_98.png",
+      "height": 1565,
+      "width": 1252,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1731413576_98.png",
+      "author": "475318080679968795",
+      "date": "2024-11-12T12:12:56.340968",
+      "score": 28,
+      "ID": 6748,
+      "epochTime": 1731413576,
+      "spoiler": false,
+      "colorName": "dimgrey",
+      "message_id": 1305063280204582922
     }
   }
 }
