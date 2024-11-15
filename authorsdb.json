@@ -2258,7 +2258,11 @@
       "authorNick": "OnlyMisu",
       "authorid": "360516634051346445",
       "authorsAvatarUrl": "https://cdn.discordapp.com/avatars/360516634051346445/68d4a762a7eeb2aba3102bf591db5864.png?size=1024",
-      "socials": []
+      "socials": [
+        "https://twitter.com/OnlyMisuna",
+        "https://www.flickr.com/people/onlymisu/",
+        "https://steamcommunity.com/id/OnlyMisu/"
+      ]
     },
     "261": {
       "authorNick": "PhilGPT",
