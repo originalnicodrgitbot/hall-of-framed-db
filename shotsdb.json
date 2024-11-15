@@ -101534,6 +101534,21 @@
       "spoiler": false,
       "colorName": "powderblue",
       "message_id": 1305605789247082558
+    },
+    "6859": {
+      "gameName": "Garden Life: A Cozy Simulator",
+      "shotUrl": "https://cdn.framedsc.com/images/1731672617_1915380_20241112011818_11.png",
+      "height": 3600,
+      "width": 2700,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1731672617_1915380_20241112011818_11.png",
+      "author": "360516634051346445",
+      "date": "2024-11-15T12:10:17.712783",
+      "score": 28,
+      "ID": 6770,
+      "epochTime": 1731672617,
+      "spoiler": false,
+      "colorName": "darkolivegreen",
+      "message_id": 1305981475954364471
     }
   }
 }
