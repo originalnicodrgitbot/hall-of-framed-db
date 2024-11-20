@@ -101894,6 +101894,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1308143334539133048
+    },
+    "6883": {
+      "gameName": "Final Fantasy XIV",
+      "shotUrl": "https://cdn.framedsc.com/images/1732114105_12.png",
+      "height": 1620,
+      "width": 3840,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1732114105_12.png",
+      "author": "158655628531859456",
+      "date": "2024-11-20T14:48:25.596210",
+      "score": 30,
+      "ID": 6794,
+      "epochTime": 1732114105,
+      "spoiler": false,
+      "colorName": "darkcyan",
+      "message_id": 1308170181008424993
     }
   }
 }
