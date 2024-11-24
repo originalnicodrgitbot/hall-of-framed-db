@@ -102179,6 +102179,21 @@
       "spoiler": false,
       "colorName": "darkgrey",
       "message_id": 1309143677922185269
+    },
+    "6902": {
+      "gameName": "Elden Ring",
+      "shotUrl": "https://cdn.framedsc.com/images/1732459473_The_Wandering_Undead.png",
+      "height": 1440,
+      "width": 3360,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1732459473_The_Wandering_Undead.png",
+      "author": "501389636908744704",
+      "date": "2024-11-24T14:44:33.639460",
+      "score": 28,
+      "ID": 6813,
+      "epochTime": 1732459473,
+      "spoiler": false,
+      "colorName": "lightgrey",
+      "message_id": 1309143711309107230
     }
   }
 }
