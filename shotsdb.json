@@ -102464,6 +102464,21 @@
       "spoiler": false,
       "colorName": "powderblue",
       "message_id": 1310834529191202866
+    },
+    "6921": {
+      "gameName": "Assassin's Creed: Odyssey",
+      "shotUrl": "https://cdn.framedsc.com/images/1732718782_20241126_200836.png",
+      "height": 1512,
+      "width": 1080,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1732718782_20241126_200836.png",
+      "author": "327264685961379840",
+      "date": "2024-11-27T14:46:22.806345",
+      "score": 28,
+      "ID": 6832,
+      "epochTime": 1732718782,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1310940437619675146
     }
   }
 }
