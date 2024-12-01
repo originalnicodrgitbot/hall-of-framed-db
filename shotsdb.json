@@ -102914,6 +102914,21 @@
       "spoiler": false,
       "colorName": "lightslategrey",
       "message_id": 1311713920800788491
+    },
+    "6951": {
+      "gameName": "Elden Ring",
+      "shotUrl": "https://cdn.framedsc.com/images/1733061310_The_Ancient_Guide.png",
+      "height": 1440,
+      "width": 3360,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1733061310_The_Ancient_Guide.png",
+      "author": "501389636908744704",
+      "date": "2024-12-01T13:55:10.761684",
+      "score": 30,
+      "ID": 6862,
+      "epochTime": 1733061310,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1311714136815829123
     }
   }
 }
