@@ -102899,6 +102899,21 @@
       "spoiler": false,
       "colorName": "grey",
       "message_id": 1311642980737876019
+    },
+    "6950": {
+      "gameName": "Elden Ring",
+      "shotUrl": "https://cdn.framedsc.com/images/1733061281_Jewel_in_View.png",
+      "height": 3000,
+      "width": 2400,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1733061281_Jewel_in_View.png",
+      "author": "501389636908744704",
+      "date": "2024-12-01T13:54:41.046366",
+      "score": 30,
+      "ID": 6861,
+      "epochTime": 1733061281,
+      "spoiler": false,
+      "colorName": "lightslategrey",
+      "message_id": 1311713920800788491
     }
   }
 }
