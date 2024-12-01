@@ -102959,6 +102959,21 @@
       "spoiler": false,
       "colorName": "darkgrey",
       "message_id": 1311754885905125376
+    },
+    "6954": {
+      "gameName": "Mafia III: Definitive Edition",
+      "shotUrl": "https://cdn.framedsc.com/images/1733061394_styled4.png",
+      "height": 1944,
+      "width": 1941,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1733061394_styled4.png",
+      "author": "484611749799133185",
+      "date": "2024-12-01T13:56:34.898360",
+      "score": 28,
+      "ID": 6865,
+      "epochTime": 1733061394,
+      "spoiler": false,
+      "colorName": "gainsboro",
+      "message_id": 1311836008635174984
     }
   }
 }
