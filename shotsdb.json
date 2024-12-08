@@ -103229,6 +103229,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1312773456940761150
+    },
+    "6972": {
+      "gameName": "S.T.A.L.K.E.R. 2 Heart of Chornobyl",
+      "shotUrl": "https://cdn.framedsc.com/images/1733684817_S.T.A.L.K.E.R._2_Heart_of_Chornobyl-58.png",
+      "height": 2000,
+      "width": 1500,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1733684817_S.T.A.L.K.E.R._2_Heart_of_Chornobyl-58.png",
+      "author": "960401306479128636",
+      "date": "2024-12-08T19:06:57.823745",
+      "score": 28,
+      "ID": 6883,
+      "epochTime": 1733684817,
+      "spoiler": false,
+      "colorName": "powderblue",
+      "message_id": 1312773479598264451
     }
   }
 }
