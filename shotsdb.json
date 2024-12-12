@@ -103694,6 +103694,21 @@
       "spoiler": false,
       "colorName": "bisque",
       "message_id": 1314967088707801219
+    },
+    "7003": {
+      "gameName": "Hitman 3",
+      "shotUrl": "https://cdn.framedsc.com/images/1733972731_hitman3_2024-12-06_00-49-49_stitch.png",
+      "height": 3741,
+      "width": 7482,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1733972731_hitman3_2024-12-06_00-49-49_stitch.png",
+      "author": "220206083136946176",
+      "date": "2024-12-12T03:05:31.421930",
+      "score": 36,
+      "ID": 6914,
+      "epochTime": 1733972731,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1314999261418623096
     }
   }
 }
