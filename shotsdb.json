@@ -103769,6 +103769,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1315035170495270912
+    },
+    "7008": {
+      "gameName": "Wolfenstein II: The New Colossus",
+      "shotUrl": "https://cdn.framedsc.com/images/1733973268_NewColossus_x64vk_2024-09-26_00-54-04_crrs.png",
+      "height": 1440,
+      "width": 1080,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1733973268_NewColossus_x64vk_2024-09-26_00-54-04_crrs.png",
+      "author": "550752303720824832",
+      "date": "2024-12-12T03:14:28.229033",
+      "score": 30,
+      "ID": 6919,
+      "epochTime": 1733973268,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1315287142423072788
     }
   }
 }
