@@ -103904,6 +103904,21 @@
       "spoiler": false,
       "colorName": "rosybrown",
       "message_id": 1315444432719314975
+    },
+    "7017": {
+      "gameName": "Ghost of Tsushima",
+      "shotUrl": "https://cdn.framedsc.com/images/1733973869_LISAN_AL_GAIB.png",
+      "height": 2056,
+      "width": 1644,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1733973869_LISAN_AL_GAIB.png",
+      "author": "80738520422944768",
+      "date": "2024-12-12T03:24:29.891067",
+      "score": 37,
+      "ID": 6928,
+      "epochTime": 1733973869,
+      "spoiler": false,
+      "colorName": "sandybrown",
+      "message_id": 1315444442529796156
     }
   }
 }
