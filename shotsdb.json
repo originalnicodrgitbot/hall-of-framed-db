@@ -103559,6 +103559,21 @@
       "spoiler": false,
       "colorName": "darkkhaki",
       "message_id": 1314575874930249818
+    },
+    "6994": {
+      "gameName": "Detroit: Become Human",
+      "shotUrl": "https://cdn.framedsc.com/images/1733971727_Detroit_Become_Human_Screenshot_2024.05.16_-_14.59.42.75.png",
+      "height": 1573,
+      "width": 3820,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1733971727_Detroit_Become_Human_Screenshot_2024.05.16_-_14.59.42.75.png",
+      "author": "764427456856981544",
+      "date": "2024-12-12T02:48:47.732050",
+      "score": 30,
+      "ID": 6905,
+      "epochTime": 1733971727,
+      "spoiler": false,
+      "colorName": "lightblue",
+      "message_id": 1314620673016201267
     }
   }
 }
