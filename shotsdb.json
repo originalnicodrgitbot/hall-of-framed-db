@@ -104039,6 +104039,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1316500006685114468
+    },
+    "7026": {
+      "gameName": "Assassins Creed Mirage",
+      "shotUrl": "https://cdn.framedsc.com/images/1734064249_ACMirage_2024-12-10_19-02-43.png",
+      "height": 2160,
+      "width": 2160,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1734064249_ACMirage_2024-12-10_19-02-43.png",
+      "author": "232028125641441282",
+      "date": "2024-12-13T04:30:49.909716",
+      "score": 28,
+      "ID": 6937,
+      "epochTime": 1734064249,
+      "spoiler": false,
+      "colorName": "khaki",
+      "message_id": 1316786948513337396
     }
   }
 }
