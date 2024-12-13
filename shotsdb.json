@@ -104054,6 +104054,21 @@
       "spoiler": false,
       "colorName": "khaki",
       "message_id": 1316786948513337396
+    },
+    "7027": {
+      "gameName": "Hitman 2",
+      "shotUrl": "https://cdn.framedsc.com/images/1734064306_Hitman_3_Screenshot_2024.08.04_-_20.47.54.56.png",
+      "height": 1055,
+      "width": 1080,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1734064306_Hitman_3_Screenshot_2024.08.04_-_20.47.54.56.png",
+      "author": "764427456856981544",
+      "date": "2024-12-13T04:31:46.778194",
+      "score": 28,
+      "ID": 6938,
+      "epochTime": 1734064306,
+      "spoiler": false,
+      "colorName": "burlywood",
+      "message_id": 1316807548900217013
     }
   }
 }
