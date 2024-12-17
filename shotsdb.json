@@ -104264,6 +104264,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1317378236295942184
+    },
+    "7041": {
+      "gameName": "Indiana Jones and the Great Circle",
+      "shotUrl": "https://cdn.framedsc.com/images/1734409250_TheGreatCircle_2024-12-13_00-53-21.png",
+      "height": 2520,
+      "width": 2520,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1734409250_TheGreatCircle_2024-12-13_00-53-21.png",
+      "author": "142170955630772225",
+      "date": "2024-12-17T04:20:50.621083",
+      "score": 29,
+      "ID": 6952,
+      "epochTime": 1734409250,
+      "spoiler": false,
+      "colorName": "tan",
+      "message_id": 1317902412597428315
     }
   }
 }
