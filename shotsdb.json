@@ -104444,6 +104444,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1319076327588106392
+    },
+    "7053": {
+      "gameName": "Red Dead Redemption 2",
+      "shotUrl": "https://cdn.framedsc.com/images/1734754884_RDR2_2024-12-19_20-01-01.png",
+      "height": 1417,
+      "width": 1215,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1734754884_RDR2_2024-12-19_20-01-01.png",
+      "author": "797413306032848896",
+      "date": "2024-12-21T04:21:24.654100",
+      "score": 32,
+      "ID": 6964,
+      "epochTime": 1734754884,
+      "spoiler": false,
+      "colorName": "sandybrown",
+      "message_id": 1319347761413619742
     }
   }
 }
