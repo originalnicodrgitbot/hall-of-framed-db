@@ -104804,6 +104804,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1322341484212519024
+    },
+    "7077": {
+      "gameName": "Red Dead Redemption 2",
+      "shotUrl": "https://cdn.framedsc.com/images/1735705519_Flower_Y.png",
+      "height": 1080,
+      "width": 864,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1735705519_Flower_Y.png",
+      "author": "80738520422944768",
+      "date": "2025-01-01T04:25:19.548633",
+      "score": 28,
+      "ID": 6988,
+      "epochTime": 1735705519,
+      "spoiler": false,
+      "colorName": "tan",
+      "message_id": 1323428018823364661
     }
   }
 }
