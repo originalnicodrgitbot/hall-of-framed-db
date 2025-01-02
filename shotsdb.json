@@ -104879,6 +104879,21 @@
       "spoiler": false,
       "colorName": "wheat",
       "message_id": 1323427996375191644
+    },
+    "7082": {
+      "gameName": "Final Fantasy VII Remake",
+      "shotUrl": "https://cdn.framedsc.com/images/1735791799_ff7remake__2024-12-31_16-31-45.png",
+      "height": 2160,
+      "width": 1800,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1735791799_ff7remake__2024-12-31_16-31-45.png",
+      "author": "1094421057479393290",
+      "date": "2025-01-02T04:23:19.186315",
+      "score": 29,
+      "ID": 6993,
+      "epochTime": 1735791799,
+      "spoiler": false,
+      "colorName": "saddlebrown",
+      "message_id": 1323561721801216000
     }
   }
 }
