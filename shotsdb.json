@@ -105644,6 +105644,21 @@
       "spoiler": false,
       "colorName": "gainsboro",
       "message_id": 1325599529407352904
+    },
+    "7133": {
+      "gameName": "Infinity Nikki",
+      "shotUrl": "https://cdn.framedsc.com/images/1736226884_2025_01_05_06_34_52_2140092.png",
+      "height": 2160,
+      "width": 1728,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1736226884_2025_01_05_06_34_52_2140092.png",
+      "author": "80738520422944768",
+      "date": "2025-01-07T05:14:44.953521",
+      "score": 34,
+      "ID": 7044,
+      "epochTime": 1736226884,
+      "spoiler": false,
+      "colorName": "burlywood",
+      "message_id": 1325599534771863572
     }
   }
 }
