@@ -107039,6 +107039,21 @@
       "spoiler": false,
       "colorName": "gainsboro",
       "message_id": 1327298287924936737
+    },
+    "7226": {
+      "gameName": "Marvel's Spider-Man Remastered",
+      "shotUrl": "https://cdn.framedsc.com/images/1737006255_Spider-Man_2025-01-08_03-15-17_stitch.png",
+      "height": 2557,
+      "width": 5115,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1737006255_Spider-Man_2025-01-08_03-15-17_stitch.png",
+      "author": "220206083136946176",
+      "date": "2025-01-16T05:44:15.345633",
+      "score": 28,
+      "ID": 7137,
+      "epochTime": 1737006255,
+      "spoiler": false,
+      "colorName": "gainsboro",
+      "message_id": 1327310441591996416
     }
   }
 }
