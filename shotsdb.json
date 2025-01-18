@@ -107714,6 +107714,21 @@
       "spoiler": false,
       "colorName": "lightpink",
       "message_id": 1329582643632803900
+    },
+    "7275": {
+      "gameName": "Control",
+      "shotUrl": "https://cdn.framedsc.com/images/1737206399_Control_DX11_2025-01-16_17-10-13.png",
+      "height": 1080,
+      "width": 1581,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1737206399_Control_DX11_2025-01-16_17-10-13.png",
+      "author": "327264685961379840",
+      "date": "2025-01-18T13:19:59.541300",
+      "score": 28,
+      "ID": 7182,
+      "epochTime": 1737206399,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1329430093684019230
     }
   }
 }
