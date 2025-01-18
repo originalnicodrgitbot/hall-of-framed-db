@@ -107969,6 +107969,21 @@
       "spoiler": false,
       "colorName": "mediumorchid",
       "message_id": 1329834723102560389
+    },
+    "7292": {
+      "gameName": "Horizon Forbidden West",
+      "shotUrl": "https://cdn.framedsc.com/images/1737206819_HorizonForbiddenWest-2025-01-14-15-47-23.png",
+      "height": 1800,
+      "width": 1440,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1737206819_HorizonForbiddenWest-2025-01-14-15-47-23.png",
+      "author": "197446843972452352",
+      "date": "2025-01-18T13:26:59.210838",
+      "score": 32,
+      "ID": 7199,
+      "epochTime": 1737206819,
+      "spoiler": false,
+      "colorName": "tan",
+      "message_id": 1329834817218416660
     }
   }
 }
