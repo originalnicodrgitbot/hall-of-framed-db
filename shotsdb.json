@@ -108074,6 +108074,21 @@
       "spoiler": false,
       "colorName": "firebrick",
       "message_id": 1329777742580940852
+    },
+    "7299": {
+      "gameName": "Nobody Wants to Die",
+      "shotUrl": "https://cdn.framedsc.com/images/1737316262_detnoir-Win64-Shipping_2025-01-12_10-00-12.png",
+      "height": 1644,
+      "width": 3840,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1737316262_detnoir-Win64-Shipping_2025-01-12_10-00-12.png",
+      "author": "80738520422944768",
+      "date": "2025-01-19T19:51:02.940781",
+      "score": 28,
+      "ID": 7206,
+      "epochTime": 1737316262,
+      "spoiler": false,
+      "colorName": "lightgrey",
+      "message_id": 1329947243687448693
     }
   }
 }
