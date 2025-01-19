@@ -108029,6 +108029,21 @@
       "spoiler": false,
       "colorName": "firebrick",
       "message_id": 1329900986067587204
+    },
+    "7296": {
+      "gameName": "Mass Effect 3: Legendary Edition",
+      "shotUrl": "https://cdn.framedsc.com/images/1737292701_RZ-Mass_Effect_Legendary_Edition_Screenshot_2024.12.15_-_14.19.16.14-Enhanced-SR.png",
+      "height": 2160,
+      "width": 3840,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1737292701_RZ-Mass_Effect_Legendary_Edition_Screenshot_2024.12.15_-_14.19.16.14-Enhanced-SR.png",
+      "author": "296171707360870401",
+      "date": "2025-01-19T13:18:21.527105",
+      "score": 29,
+      "ID": 7203,
+      "epochTime": 1737292701,
+      "spoiler": false,
+      "colorName": "burlywood",
+      "message_id": 1329913146017714247
     }
   }
 }
