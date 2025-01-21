@@ -108284,6 +108284,21 @@
       "spoiler": false,
       "colorName": "turquoise",
       "message_id": 1329947225043898531
+    },
+    "7313": {
+      "gameName": "Silent Hill 2",
+      "shotUrl": "https://cdn.framedsc.com/images/1737488662_SHProto-Win64-Shipping_2024-12-29_20-01-32.png",
+      "height": 2000,
+      "width": 4673,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1737488662_SHProto-Win64-Shipping_2024-12-29_20-01-32.png",
+      "author": "540875144277786624",
+      "date": "2025-01-21T19:44:22.589747",
+      "score": 28,
+      "ID": 7220,
+      "epochTime": 1737488662,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1330457976661741591
     }
   }
 }
