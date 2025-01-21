@@ -108374,6 +108374,21 @@
       "spoiler": false,
       "colorName": "rosybrown",
       "message_id": 1330959783112474707
+    },
+    "7319": {
+      "gameName": "Infinity Nikki ",
+      "shotUrl": "https://cdn.framedsc.com/images/1737489026_Nocturne_in_Paris_Day_1.png",
+      "height": 2160,
+      "width": 1728,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1737489026_Nocturne_in_Paris_Day_1.png",
+      "author": "80738520422944768",
+      "date": "2025-01-21T19:50:26.568442",
+      "score": 29,
+      "ID": 7226,
+      "epochTime": 1737489026,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1331039919690219634
     }
   }
 }
