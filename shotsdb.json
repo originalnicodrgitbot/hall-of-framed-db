@@ -108914,6 +108914,36 @@
       "spoiler": false,
       "colorName": "mediumturquoise",
       "message_id": 1332207864235954176
+    },
+    "7355": {
+      "gameName": "Ghost of Tsushima",
+      "shotUrl": "https://cdn.framedsc.com/images/1737905498_GhostOfTsushima_2024-11-25_05-04-00.png",
+      "height": 2055,
+      "width": 4800,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1737905498_GhostOfTsushima_2024-11-25_05-04-00.png",
+      "author": "80738520422944768",
+      "date": "2025-01-26T15:31:38.429812",
+      "score": 30,
+      "ID": 7262,
+      "epochTime": 1737905498,
+      "spoiler": false,
+      "colorName": "lightgrey",
+      "message_id": 1332491279082328084
+    },
+    "7356": {
+      "gameName": "Ghost of Tsushima",
+      "shotUrl": "https://cdn.framedsc.com/images/1737906502_GhostOfTsushima_2024-12-12_06-20-19.png",
+      "height": 1849,
+      "width": 4320,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1737906502_GhostOfTsushima_2024-12-12_06-20-19.png",
+      "author": "80738520422944768",
+      "date": "2025-01-26T15:48:22.410152",
+      "score": 34,
+      "ID": 7263,
+      "epochTime": 1737906502,
+      "spoiler": false,
+      "colorName": "gainsboro",
+      "message_id": 1332491294488137791
     }
   }
 }
