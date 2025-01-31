@@ -109529,6 +109529,21 @@
       "spoiler": false,
       "colorName": "rosybrown",
       "message_id": 1334090588244541480
+    },
+    "7422": {
+      "gameName": "Infinity Nikki",
+      "shotUrl": "https://cdn.framedsc.com/images/1738191176.035_CNY.png",
+      "height": 2880,
+      "width": 2160,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1738191176.035_CNY.png",
+      "author": "80738520422944768",
+      "date": "2025-01-31T19:54:22.162239",
+      "score": 29,
+      "ID": 7303,
+      "epochTime": 1738353262,
+      "spoiler": false,
+      "colorName": "lightgrey",
+      "message_id": 1334295243406704752
     }
   }
 }
