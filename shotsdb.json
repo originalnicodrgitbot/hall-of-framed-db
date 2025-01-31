@@ -109529,6 +109529,21 @@
       "spoiler": false,
       "colorName": "saddlebrown",
       "message_id": 1333580243952336988
+    },
+    "7418": {
+      "gameName": "Control",
+      "shotUrl": "https://cdn.framedsc.com/images/1738048721.083_Control_DX11_2025-01-28_13-56-50.png",
+      "height": 1080,
+      "width": 1920,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1738048721.083_Control_DX11_2025-01-28_13-56-50.png",
+      "author": "327264685961379840",
+      "date": "2025-01-31T19:46:19.810485",
+      "score": 29,
+      "ID": 7303,
+      "epochTime": 1738352779,
+      "spoiler": false,
+      "colorName": "gainsboro",
+      "message_id": 1333697744031711324
     }
   }
 }
