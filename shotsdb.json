@@ -109529,6 +109529,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1334295243406704752
+    },
+    "7423": {
+      "gameName": "Baldur\u2019s Gate 3",
+      "shotUrl": "https://cdn.framedsc.com/images/1738235042.485_bg3_dx11_2025-01-27_12-42-19.png",
+      "height": 2160,
+      "width": 1728,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1738235042.485_bg3_dx11_2025-01-27_12-42-19.png",
+      "author": "305036516269359104",
+      "date": "2025-01-31T19:55:26.567724",
+      "score": 34,
+      "ID": 7303,
+      "epochTime": 1738353326,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1334479232633667737
     }
   }
 }
