@@ -109589,6 +109589,21 @@
       "spoiler": false,
       "colorName": "sienna",
       "message_id": 1334658811222429778
+    },
+    "7429": {
+      "gameName": "Ghost of Tsushima",
+      "shotUrl": "https://cdn.framedsc.com/images/1738277862.035_GhostOfTsushima_2024-11-15_07-04-51.png",
+      "height": 1849,
+      "width": 4320,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1738277862.035_GhostOfTsushima_2024-11-15_07-04-51.png",
+      "author": "80738520422944768",
+      "date": "2025-02-01T12:56:43.641117",
+      "score": 28,
+      "ID": 7307,
+      "epochTime": 1738414603,
+      "spoiler": false,
+      "colorName": "burlywood",
+      "message_id": 1334658830843379772
     }
   }
 }
