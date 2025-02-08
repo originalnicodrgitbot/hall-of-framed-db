@@ -110189,6 +110189,21 @@
       "spoiler": false,
       "colorName": "rosybrown",
       "message_id": 1337094935265939528
+    },
+    "7469": {
+      "gameName": "Ninja Gaiden 2 Black",
+      "shotUrl": "https://cdn.framedsc.com/images/1738863163.475_NINJAGAIDEN2BLACK-Win64-Shipping_2025-02-02_15-51-27.png",
+      "height": 2000,
+      "width": 4672,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1738863163.475_NINJAGAIDEN2BLACK-Win64-Shipping_2025-02-02_15-51-27.png",
+      "author": "540875144277786624",
+      "date": "2025-02-08T00:42:16.259132",
+      "score": 30,
+      "ID": 7347,
+      "epochTime": 1738975336,
+      "spoiler": false,
+      "colorName": "darkolivegreen",
+      "message_id": 1337113763014250586
     }
   }
 }
