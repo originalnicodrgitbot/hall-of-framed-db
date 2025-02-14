@@ -111269,6 +111269,21 @@
       "spoiler": false,
       "colorName": "grey",
       "message_id": 1339266241080328298
+    },
+    "7541": {
+      "gameName": "MGR: Revengeance",
+      "shotUrl": "https://cdn.framedsc.com/images/1739377389.305_Metal_Gear_Rising_Revengeance_Screenshot_2025.02.12_-_15.34.48.32.png",
+      "height": 810,
+      "width": 1920,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1739377389.305_Metal_Gear_Rising_Revengeance_Screenshot_2025.02.12_-_15.34.48.32.png",
+      "author": "764427456856981544",
+      "date": "2025-02-14T00:38:37.434837",
+      "score": 33,
+      "ID": 7419,
+      "epochTime": 1739493517,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1339270582470053902
     }
   }
 }
