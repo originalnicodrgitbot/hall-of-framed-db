@@ -112739,6 +112739,21 @@
       "spoiler": false,
       "colorName": "darkgrey",
       "message_id": 1343646750245916819
+    },
+    "7639": {
+      "gameName": "Assassin's Creed Valhalla",
+      "shotUrl": "https://cdn.framedsc.com/images/1740428389.025_ACValhalla_2025-02-24_19-54-02_065.png",
+      "height": 2056,
+      "width": 4675,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1740428389.025_ACValhalla_2025-02-24_19-54-02_065.png",
+      "author": "417334153978052608",
+      "date": "2025-02-27T02:06:47.773795",
+      "score": 28,
+      "ID": 7517,
+      "epochTime": 1740622007,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1343678794799779872
     }
   }
 }
