@@ -112934,6 +112934,21 @@
       "spoiler": false,
       "colorName": "burlywood",
       "message_id": 1344378668591480872
+    },
+    "7652": {
+      "gameName": "The Talos Principle: Reawakened",
+      "shotUrl": "https://cdn.framedsc.com/images/1740595263.584_Talos1-Win64-Shipping_2025-02-25_01-59-05.png",
+      "height": 3600,
+      "width": 2880,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1740595263.584_Talos1-Win64-Shipping_2025-02-25_01-59-05.png",
+      "author": "142170955630772225",
+      "date": "2025-02-28T02:09:23.537981",
+      "score": 28,
+      "ID": 7530,
+      "epochTime": 1740708563,
+      "spoiler": false,
+      "colorName": "gainsboro",
+      "message_id": 1344378717430087782
     }
   }
 }
