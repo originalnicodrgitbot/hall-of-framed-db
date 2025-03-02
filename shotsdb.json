@@ -113324,6 +113324,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1345025000050004039
+    },
+    "7678": {
+      "gameName": "Gothic 1 Remake",
+      "shotUrl": "https://cdn.framedsc.com/images/1740514601.608_G1R1.png",
+      "height": 2700,
+      "width": 2160,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1740514601.608_G1R1.png",
+      "author": "349272662901522444",
+      "date": "2025-03-02T02:00:46.792246",
+      "score": 28,
+      "ID": 7556,
+      "epochTime": 1740880846,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1344040396581507112
     }
   }
 }
