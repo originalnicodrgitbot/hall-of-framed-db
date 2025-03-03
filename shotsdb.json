@@ -113579,6 +113579,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1345112815433682976
+    },
+    "7695": {
+      "gameName": "Crash Bandicoot 4: It's About Time",
+      "shotUrl": "https://cdn.framedsc.com/images/1740804004.479_135.png",
+      "height": 3150,
+      "width": 2520,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1740804004.479_135.png",
+      "author": "475318080679968795",
+      "date": "2025-03-03T02:06:05.351154",
+      "score": 29,
+      "ID": 7573,
+      "epochTime": 1740967565,
+      "spoiler": false,
+      "colorName": "dimgrey",
+      "message_id": 1345254240200949851
     }
   }
 }
