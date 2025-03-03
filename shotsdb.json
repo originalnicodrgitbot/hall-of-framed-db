@@ -113534,6 +113534,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1343938335919308861
+    },
+    "7692": {
+      "gameName": "Chernobylite 2",
+      "shotUrl": "https://cdn.framedsc.com/images/1740629902.608_Chernobylite2-Win64-Shipping_2025-02-25_14-15-04.png",
+      "height": 2700,
+      "width": 2160,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1740629902.608_Chernobylite2-Win64-Shipping_2025-02-25_14-15-04.png",
+      "author": "475318080679968795",
+      "date": "2025-03-03T02:00:42.082872",
+      "score": 28,
+      "ID": 7570,
+      "epochTime": 1740967242,
+      "spoiler": false,
+      "colorName": "whitesmoke",
+      "message_id": 1344524004026880010
     }
   }
 }
