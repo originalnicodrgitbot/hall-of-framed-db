@@ -113714,6 +113714,21 @@
       "spoiler": false,
       "colorName": "darkkhaki",
       "message_id": 1345675496217907261
+    },
+    "7704": {
+      "gameName": "Control",
+      "shotUrl": "https://cdn.framedsc.com/images/1740747249.367_IMG_20250228_194355.png",
+      "height": 974,
+      "width": 1731,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1740747249.367_IMG_20250228_194355.png",
+      "author": "327264685961379840",
+      "date": "2025-03-04T02:25:07.756313",
+      "score": 28,
+      "ID": 7582,
+      "epochTime": 1741055107,
+      "spoiler": false,
+      "colorName": "whitesmoke",
+      "message_id": 1345016192007540768
     }
   }
 }
