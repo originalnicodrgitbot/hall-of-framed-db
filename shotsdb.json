@@ -114239,6 +114239,21 @@
       "spoiler": false,
       "colorName": "plum",
       "message_id": 1345824535928115212
+    },
+    "7739": {
+      "gameName": "Lost Records: Bloom & Rage",
+      "shotUrl": "https://cdn.framedsc.com/images/1741136012.182_BloomRage_2025-03-04_18-49-01_016_small.png",
+      "height": 2048,
+      "width": 2560,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1741136012.182_BloomRage_2025-03-04_18-49-01_016_small.png",
+      "author": "240872609237958667",
+      "date": "2025-03-09T02:26:22.536190",
+      "score": 28,
+      "ID": 7617,
+      "epochTime": 1741487182,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1346646781437542411
     }
   }
 }
