@@ -2597,6 +2597,16 @@
       "authorid": "604423584156221445",
       "authorsAvatarUrl": "https://cdn.discordapp.com/avatars/604423584156221445/c71ae05dfc33aab01b2cb7c32565fdee.png?size=1024",
       "socials": []
+    },
+    "306": {
+      "authorNick": "Eyes of Eden",
+      "authorid": "134770962401853440",
+      "authorsAvatarUrl": "https://cdn.discordapp.com/avatars/134770962401853440/c594cf3b10827fb8e9a340db3faa896b.png?size=1024",
+      "socials": [
+        "https://x.com/eyesofedens",
+        "https://bsky.app/profile/eyesofeden.bsky.social",
+        "https://www.flickr.com/people/201242950@N03"
+      ]
     }
   }
 }
