@@ -2427,7 +2427,9 @@
       "authorNick": "Dogmod",
       "authorid": "224097393455398912",
       "authorsAvatarUrl": "https://cdn.discordapp.com/avatars/224097393455398912/fdd093c329d073aa35e564e121dd1ef9.png?size=1024",
-      "socials": []
+      "socials": [
+        "https://dogmod.vercel.app/"
+      ]
     },
     "281": {
       "authorNick": "KHoage",
