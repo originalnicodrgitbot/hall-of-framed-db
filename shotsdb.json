@@ -173609,6 +173609,21 @@
       "spoiler": false,
       "colorName": "peru",
       "message_id": 1532268148538212442
+    },
+    "11698": {
+      "gameName": "Blades Of Fire",
+      "shotUrl": "https://cdn.framedsc.com/images/1785401028.092_62.png",
+      "height": 2800,
+      "width": 2400,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1785401028.092_62.png",
+      "author": "475318080679968795",
+      "date": "2026-08-02T13:16:12.185253",
+      "score": 25,
+      "ID": 11575,
+      "epochTime": 1785676572,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1532307714728919091
     }
   }
 }
