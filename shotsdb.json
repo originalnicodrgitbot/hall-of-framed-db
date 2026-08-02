@@ -173624,6 +173624,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1532307714728919091
+    },
+    "11699": {
+      "gameName": "Resident Evil Requiem",
+      "shotUrl": "https://cdn.framedsc.com/images/1785418152.099_RESIDENT_EVIL_requiem_2026_3_9_11_45_56.png",
+      "height": 1097,
+      "width": 2560,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1785418152.099_RESIDENT_EVIL_requiem_2026_3_9_11_45_56.png",
+      "author": "1264774965249703937",
+      "date": "2026-08-02T13:17:01.596571",
+      "score": 30,
+      "ID": 11576,
+      "epochTime": 1785676621,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1532379538019844206
     }
   }
 }
