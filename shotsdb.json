@@ -174809,6 +174809,21 @@
       "spoiler": false,
       "colorName": "rosybrown",
       "message_id": 1534676231960920064
+    },
+    "11778": {
+      "gameName": "Assassin\u2019s Creed IV Black Flag",
+      "shotUrl": "https://cdn.framedsc.com/images/1785971010.75_AC4BFSP_2026-08-04_08-23-11-213.png",
+      "height": 1644,
+      "width": 3840,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1785971010.75_AC4BFSP_2026-08-04_08-23-11-213.png",
+      "author": "440105677667434496",
+      "date": "2026-08-06T13:22:27.391331",
+      "score": 21,
+      "ID": 11655,
+      "epochTime": 1786022547,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1534698395271299172
     }
   }
 }
