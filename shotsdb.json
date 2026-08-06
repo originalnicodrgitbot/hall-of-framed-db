@@ -174584,6 +174584,21 @@
       "spoiler": false,
       "colorName": "olivedrab",
       "message_id": 1534217395906936933
+    },
+    "11763": {
+      "gameName": "DragonSword Awakening",
+      "shotUrl": "https://cdn.framedsc.com/images/1785856337.999_DSClient-Win64-Shipping_2026-08-02_15-05-55.PNG",
+      "height": 1600,
+      "width": 1684,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1785856337.999_DSClient-Win64-Shipping_2026-08-02_15-05-55.PNG",
+      "author": "310528138067181572",
+      "date": "2026-08-06T13:09:56.669507",
+      "score": 23,
+      "ID": 11640,
+      "epochTime": 1786021796,
+      "spoiler": false,
+      "colorName": "paleturquoise",
+      "message_id": 1534217422893092956
     }
   }
 }
