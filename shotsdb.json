@@ -173999,6 +173999,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1532096989859156120
+    },
+    "11724": {
+      "gameName": "Kingdom Come Deliverance 2",
+      "shotUrl": "https://cdn.framedsc.com/images/1785363195.013_KingdomCome_2025-09-22_21-21-57_651.jpg",
+      "height": 1800,
+      "width": 1439,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1785363195.013_KingdomCome_2025-09-22_21-21-57_651.jpg",
+      "author": "260858854877822976",
+      "date": "2026-08-06T12:45:01.692391",
+      "score": 20,
+      "ID": 11601,
+      "epochTime": 1786020301,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1532149031294468239
     }
   }
 }
