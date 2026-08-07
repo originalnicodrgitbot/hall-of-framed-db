@@ -175064,6 +175064,21 @@
       "spoiler": false,
       "colorName": "dimgrey",
       "message_id": 1534777922357825546
+    },
+    "11796": {
+      "gameName": "Blades of Fire",
+      "shotUrl": "https://cdn.framedsc.com/images/1785998868.662_BladesOfFire_2026-08-05_16-06-03_655.png",
+      "height": 2800,
+      "width": 2400,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1785998868.662_BladesOfFire_2026-08-05_16-06-03_655.png",
+      "author": "475318080679968795",
+      "date": "2026-08-07T12:59:01.194676",
+      "score": 21,
+      "ID": 11672,
+      "epochTime": 1786107541,
+      "spoiler": false,
+      "colorName": "darkkhaki",
+      "message_id": 1534815239823032340
     }
   }
 }
