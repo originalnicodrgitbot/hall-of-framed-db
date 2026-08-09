@@ -175529,6 +175529,21 @@
       "spoiler": false,
       "colorName": "burlywood",
       "message_id": 1535356337037250583
+    },
+    "11827": {
+      "gameName": "Elden Ring",
+      "shotUrl": "https://cdn.framedsc.com/images/1786127884.577_Edited7.png",
+      "height": 1645,
+      "width": 3840,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1786127884.577_Edited7.png",
+      "author": "134770962401853440",
+      "date": "2026-08-09T12:55:03.578456",
+      "score": 20,
+      "ID": 11703,
+      "epochTime": 1786280103,
+      "spoiler": false,
+      "colorName": "grey",
+      "message_id": 1535356371791257660
     }
   }
 }
