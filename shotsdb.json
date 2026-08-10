@@ -175709,6 +175709,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1536040464644571156
+    },
+    "11839": {
+      "gameName": "Dark Souls III",
+      "shotUrl": "https://cdn.framedsc.com/images/1786296913.144_Ashes_of_Ariandel.png",
+      "height": 4320,
+      "width": 3456,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1786296913.144_Ashes_of_Ariandel.png",
+      "author": "277908122935492609",
+      "date": "2026-08-10T12:56:44.835127",
+      "score": 25,
+      "ID": 11715,
+      "epochTime": 1786366604,
+      "spoiler": false,
+      "colorName": "lavender",
+      "message_id": 1536065328986202112
     }
   }
 }
