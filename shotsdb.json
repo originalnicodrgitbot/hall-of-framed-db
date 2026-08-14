@@ -176714,6 +176714,21 @@
       "spoiler": false,
       "colorName": "tan",
       "message_id": 1537511963070832720
+    },
+    "11906": {
+      "gameName": "Marvel's Spider-Man 2",
+      "shotUrl": "https://cdn.framedsc.com/images/1786641887.373_Spider-Man_2_-_83.png",
+      "height": 4320,
+      "width": 7680,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1786641887.373_Spider-Man_2_-_83.png",
+      "author": "326792331049041922",
+      "date": "2026-08-14T12:57:02.339287",
+      "score": 32,
+      "ID": 11782,
+      "epochTime": 1786712222,
+      "spoiler": false,
+      "colorName": "saddlebrown",
+      "message_id": 1537512255774654516
     }
   }
 }
