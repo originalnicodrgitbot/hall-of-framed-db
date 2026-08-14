@@ -176594,6 +176594,21 @@
       "spoiler": false,
       "colorName": "cadetblue",
       "message_id": 1537260986409558067
+    },
+    "11898": {
+      "gameName": "Resident Evil 4",
+      "shotUrl": "https://cdn.framedsc.com/images/1786581990.287_re4_2026-08-13_02-41-42_483_copy.png",
+      "height": 2160,
+      "width": 1728,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1786581990.287_re4_2026-08-13_02-41-42_483_copy.png",
+      "author": "1112320150801223770",
+      "date": "2026-08-14T12:52:07.244625",
+      "score": 25,
+      "ID": 11774,
+      "epochTime": 1786711927,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1537261029187387494
     }
   }
 }
