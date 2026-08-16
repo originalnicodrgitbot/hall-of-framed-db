@@ -176894,6 +176894,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1537732700952334426
+    },
+    "11918": {
+      "gameName": "Elden Ring",
+      "shotUrl": "https://cdn.framedsc.com/images/1786738394.779_eldenring_2026-08-14_22-21-36_509.png",
+      "height": 1233,
+      "width": 2880,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1786738394.779_eldenring_2026-08-14_22-21-36_509.png",
+      "author": "797413306032848896",
+      "date": "2026-08-16T12:50:51.548105",
+      "score": 22,
+      "ID": 11794,
+      "epochTime": 1786884651,
+      "spoiler": false,
+      "colorName": "slategrey",
+      "message_id": 1537917037173678131
     }
   }
 }
