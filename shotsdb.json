@@ -177344,6 +177344,21 @@
       "spoiler": false,
       "colorName": "gainsboro",
       "message_id": 1538631783724097586
+    },
+    "11948": {
+      "gameName": "Grounded 2",
+      "shotUrl": "https://cdn.framedsc.com/images/1786963893.42_Grounded2Steam-Win64-Shipping_2026-08-16_20-52-07_470_After.png",
+      "height": 2160,
+      "width": 1800,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1786963893.42_Grounded2Steam-Win64-Shipping_2026-08-16_20-52-07_470_After.png",
+      "author": "563078211676930078",
+      "date": "2026-08-18T12:53:39.612541",
+      "score": 20,
+      "ID": 11824,
+      "epochTime": 1787057619,
+      "spoiler": false,
+      "colorName": "olivedrab",
+      "message_id": 1538862847025487972
     }
   }
 }
