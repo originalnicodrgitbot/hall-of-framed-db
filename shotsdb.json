@@ -177254,6 +177254,21 @@
       "spoiler": false,
       "colorName": "gainsboro",
       "message_id": 1537342851640332348
+    },
+    "11942": {
+      "gameName": "Avowed",
+      "shotUrl": "https://cdn.framedsc.com/images/1786701544.592_Avowed-Win64-Shipping_2026-08-12_22-56-30_555.png",
+      "height": 2880,
+      "width": 2880,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1786701544.592_Avowed-Win64-Shipping_2026-08-12_22-56-30_555.png",
+      "author": "305036516269359104",
+      "date": "2026-08-18T12:47:33.909240",
+      "score": 20,
+      "ID": 11818,
+      "epochTime": 1787057253,
+      "spoiler": false,
+      "colorName": "darkseagreen",
+      "message_id": 1537762476286935091
     }
   }
 }
