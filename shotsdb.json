@@ -177269,6 +177269,21 @@
       "spoiler": false,
       "colorName": "darkseagreen",
       "message_id": 1537762476286935091
+    },
+    "11943": {
+      "gameName": "Avowed",
+      "shotUrl": "https://cdn.framedsc.com/images/1786701557.873_Avowed-Win64-Shipping_2026-08-13_21-52-55_187.png",
+      "height": 2520,
+      "width": 3780,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1786701557.873_Avowed-Win64-Shipping_2026-08-13_21-52-55_187.png",
+      "author": "305036516269359104",
+      "date": "2026-08-18T12:48:06.941221",
+      "score": 22,
+      "ID": 11819,
+      "epochTime": 1787057286,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1537762531991486464
     }
   }
 }
