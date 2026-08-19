@@ -177524,6 +177524,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1539284794590892163
+    },
+    "11960": {
+      "gameName": "Crimson Desert",
+      "shotUrl": "https://cdn.framedsc.com/images/1787077756.266_CrimsonDesert_2026-08-15_18-46-10.PNG",
+      "height": 1600,
+      "width": 2844,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1787077756.266_CrimsonDesert_2026-08-15_18-46-10.PNG",
+      "author": "310528138067181572",
+      "date": "2026-08-19T12:56:54.872563",
+      "score": 21,
+      "ID": 11836,
+      "epochTime": 1787144214,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1539340422416175205
     }
   }
 }
