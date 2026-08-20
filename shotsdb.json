@@ -177704,6 +177704,21 @@
       "spoiler": false,
       "colorName": "burlywood",
       "message_id": 1539455296345473165
+    },
+    "11972": {
+      "gameName": "Metro Exodus Enhanced Edition",
+      "shotUrl": "https://cdn.framedsc.com/images/1787153862.47_MetroExodus_2026-07-12_11-41-42_771.png",
+      "height": 3240,
+      "width": 2160,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1787153862.47_MetroExodus_2026-07-12_11-41-42_771.png",
+      "author": "316870100667858944",
+      "date": "2026-08-20T13:45:20.563097",
+      "score": 20,
+      "ID": 11848,
+      "epochTime": 1787233520,
+      "spoiler": false,
+      "colorName": "skyblue",
+      "message_id": 1539659634971774987
     }
   }
 }
