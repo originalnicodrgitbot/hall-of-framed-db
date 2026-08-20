@@ -177629,6 +177629,21 @@
       "spoiler": false,
       "colorName": "dimgrey",
       "message_id": 1539340491835842743
+    },
+    "11967": {
+      "gameName": "Assassin's Creed Black Flag Resynced",
+      "shotUrl": "https://cdn.framedsc.com/images/1787080028.543_ACBlackFlag_2026-08-14_20-04-25_209b.png",
+      "height": 4800,
+      "width": 3840,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1787080028.543_ACBlackFlag_2026-08-14_20-04-25_209b.png",
+      "author": "484375157687844884",
+      "date": "2026-08-20T13:41:13.391634",
+      "score": 23,
+      "ID": 11843,
+      "epochTime": 1787233273,
+      "spoiler": false,
+      "colorName": "rosybrown",
+      "message_id": 1539349953036689430
     }
   }
 }
