@@ -177764,6 +177764,21 @@
       "spoiler": false,
       "colorName": "tan",
       "message_id": 1538052255423397938
+    },
+    "11976": {
+      "gameName": "The Elder Scrolls V: Skyrim Special Edition",
+      "shotUrl": "https://cdn.framedsc.com/images/1786810246.216_SkyrimSE_2026-08-15_17-47-53_small_2.png",
+      "height": 1463,
+      "width": 3415,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1786810246.216_SkyrimSE_2026-08-15_17-47-53_small_2.png",
+      "author": "365583928003788800",
+      "date": "2026-08-21T12:45:01.801603",
+      "score": 20,
+      "ID": 11852,
+      "epochTime": 1787316301,
+      "spoiler": false,
+      "colorName": "gainsboro",
+      "message_id": 1538218403943415949
     }
   }
 }
