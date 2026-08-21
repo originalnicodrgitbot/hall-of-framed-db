@@ -177929,6 +177929,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1539842319681851452
+    },
+    "11987": {
+      "gameName": "Devil May Cry 5",
+      "shotUrl": "https://cdn.framedsc.com/images/1787201440.882_DevilMayCry5_2026-04-04_18-53-16_060_copy.png",
+      "height": 2430,
+      "width": 1822,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1787201440.882_DevilMayCry5_2026-04-04_18-53-16_060_copy.png",
+      "author": "1112320150801223770",
+      "date": "2026-08-21T12:56:55.928542",
+      "score": 24,
+      "ID": 11863,
+      "epochTime": 1787317015,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1539859193295667240
     }
   }
 }
