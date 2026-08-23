@@ -178229,6 +178229,21 @@
       "spoiler": false,
       "colorName": "gainsboro",
       "message_id": 1539699320024989798
+    },
+    "12007": {
+      "gameName": "Terminator: Resistance",
+      "shotUrl": "https://cdn.framedsc.com/images/1787185545.111_Terminator-Win64-Shipping_2026-08-19_22-40-33-207.png",
+      "height": 2160,
+      "width": 3840,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1787185545.111_Terminator-Win64-Shipping_2026-08-19_22-40-33-207.png",
+      "author": "440105677667434496",
+      "date": "2026-08-23T12:51:04.523782",
+      "score": 21,
+      "ID": 11883,
+      "epochTime": 1787489464,
+      "spoiler": false,
+      "colorName": "lightsteelblue",
+      "message_id": 1539792521599778940
     }
   }
 }
