@@ -178139,6 +178139,21 @@
       "spoiler": false,
       "colorName": "grey",
       "message_id": 1539007383022469203
+    },
+    "12001": {
+      "gameName": "Dead Space remake",
+      "shotUrl": "https://cdn.framedsc.com/images/1787017848.669_Dead_Space_2026-08-17_00-31-20_851_copy_2.png",
+      "height": 3240,
+      "width": 2810,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1787017848.669_Dead_Space_2026-08-17_00-31-20_851_copy_2.png",
+      "author": "546571736200511498",
+      "date": "2026-08-23T12:45:24.654959",
+      "score": 20,
+      "ID": 11877,
+      "epochTime": 1787489124,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1539089151742443630
     }
   }
 }
