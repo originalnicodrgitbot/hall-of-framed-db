@@ -178469,6 +178469,21 @@
       "spoiler": false,
       "colorName": "darkgrey",
       "message_id": 1540542826964721728
+    },
+    "12023": {
+      "gameName": "The Witcher 3 Wild Hunt",
+      "shotUrl": "https://cdn.framedsc.com/images/1787417447.221_witcher_medallion.png",
+      "height": 4320,
+      "width": 3456,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1787417447.221_witcher_medallion.png",
+      "author": "277908122935492609",
+      "date": "2026-08-23T13:04:02.004978",
+      "score": 24,
+      "ID": 11899,
+      "epochTime": 1787490242,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1540765189547233371
     }
   }
 }
