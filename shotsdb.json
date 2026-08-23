@@ -178334,6 +178334,21 @@
       "spoiler": false,
       "colorName": "gainsboro",
       "message_id": 1540057727617990736
+    },
+    "12014": {
+      "gameName": "Devil May Cry 5",
+      "shotUrl": "https://cdn.framedsc.com/images/1787325536.207_DevilMayCry5_2026-03-13_01-25-49_436_copy.png",
+      "height": 2430,
+      "width": 1822,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1787325536.207_DevilMayCry5_2026-03-13_01-25-49_436_copy.png",
+      "author": "1112320150801223770",
+      "date": "2026-08-23T12:57:12.675668",
+      "score": 20,
+      "ID": 11890,
+      "epochTime": 1787489832,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1540379686813569034
     }
   }
 }
