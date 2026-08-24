@@ -178499,6 +178499,21 @@
       "spoiler": false,
       "colorName": "gainsboro",
       "message_id": 1540903504762372136
+    },
+    "12025": {
+      "gameName": "Mortal Shell II",
+      "shotUrl": "https://cdn.framedsc.com/images/1787163313.926_MortalShell2-Win64-Shipping_2026-08-19_02-03-49.png",
+      "height": 2880,
+      "width": 2304,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1787163313.926_MortalShell2-Win64-Shipping_2026-08-19_02-03-49.png",
+      "author": "142170955630772225",
+      "date": "2026-08-24T12:47:12.085757",
+      "score": 20,
+      "ID": 11901,
+      "epochTime": 1787575632,
+      "spoiler": false,
+      "colorName": "rosybrown",
+      "message_id": 1539699277251747882
     }
   }
 }
