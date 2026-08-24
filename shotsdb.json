@@ -178514,6 +178514,21 @@
       "spoiler": false,
       "colorName": "rosybrown",
       "message_id": 1539699277251747882
+    },
+    "12026": {
+      "gameName": "Terminator: Resistance",
+      "shotUrl": "https://cdn.framedsc.com/images/1787425207.938_Terminator-Win64-Shipping_2026-08-21_23-05-10-8988.png",
+      "height": 2050,
+      "width": 4792,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1787425207.938_Terminator-Win64-Shipping_2026-08-21_23-05-10-8988.png",
+      "author": "440105677667434496",
+      "date": "2026-08-24T12:52:41.515442",
+      "score": 21,
+      "ID": 11902,
+      "epochTime": 1787575961,
+      "spoiler": false,
+      "colorName": "gold",
+      "message_id": 1540797740353720421
     }
   }
 }
