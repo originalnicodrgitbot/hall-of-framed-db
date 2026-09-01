@@ -178979,6 +178979,21 @@
       "spoiler": false,
       "colorName": "gainsboro",
       "message_id": 1543315990748602408
+    },
+    "12057": {
+      "gameName": "Ace Combat 7",
+      "shotUrl": "https://cdn.framedsc.com/images/1788025621.304_GhostOfTsushima_2026-08-08_01-17-24_262.png",
+      "height": 3240,
+      "width": 2160,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1788025621.304_GhostOfTsushima_2026-08-08_01-17-24_262.png",
+      "author": "316870100667858944",
+      "date": "2026-09-01T12:38:31.044869",
+      "score": 22,
+      "ID": 11933,
+      "epochTime": 1788266311,
+      "spoiler": false,
+      "colorName": "saddlebrown",
+      "message_id": 1543316056536260732
     }
   }
 }
