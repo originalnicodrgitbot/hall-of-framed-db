@@ -179099,6 +179099,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1544060985386471576
+    },
+    "12065": {
+      "gameName": "Mafia III: Definitive Edition",
+      "shotUrl": "https://cdn.framedsc.com/images/1788218339.866_mafia3definitiveedition_2026-03-18_21-33-15-9288.png",
+      "height": 2156,
+      "width": 1725,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1788218339.866_mafia3definitiveedition_2026-03-18_21-33-15-9288.png",
+      "author": "440105677667434496",
+      "date": "2026-09-02T12:41:50.990438",
+      "score": 29,
+      "ID": 11941,
+      "epochTime": 1788352910,
+      "spoiler": false,
+      "colorName": "darkkhaki",
+      "message_id": 1544124376771731550
     }
   }
 }
