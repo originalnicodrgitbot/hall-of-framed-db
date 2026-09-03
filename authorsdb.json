@@ -2613,10 +2613,12 @@
       ]
     },
     "307": {
-      "authorNick": "S LOOK",
+      "authorNick": "S LOOK VP",
       "authorid": "440105677667434496",
       "authorsAvatarUrl": "https://cdn.discordapp.com/avatars/440105677667434496/b13bf3e1a0db27eefb6cf65b04fc7fc5.png?size=1024",
-      "socials": []
+      "socials": [
+        "https://www.flickr.com/photos/203886836@N05/"
+      ]
     },
     "308": {
       "authorNick": "Duster",
