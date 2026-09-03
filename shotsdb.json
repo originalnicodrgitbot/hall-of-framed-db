@@ -179189,6 +179189,21 @@
       "spoiler": false,
       "colorName": "tan",
       "message_id": 1543237049656680499
+    },
+    "12071": {
+      "gameName": "Mortal Shell II",
+      "shotUrl": "https://cdn.framedsc.com/images/1788188505.475_111.png",
+      "height": 960,
+      "width": 1920,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1788188505.475_111.png",
+      "author": "379860789340798976",
+      "date": "2026-09-03T12:36:48.930208",
+      "score": 22,
+      "ID": 11947,
+      "epochTime": 1788439008,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1543999242266214500
     }
   }
 }
