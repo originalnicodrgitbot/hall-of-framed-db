@@ -179204,6 +179204,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1543999242266214500
+    },
+    "12072": {
+      "gameName": "1666: Amsterdam",
+      "shotUrl": "https://cdn.framedsc.com/images/1788188674.544_1666Amsterdam_2026-08-31_02-45-05_385.png",
+      "height": 2160,
+      "width": 1620,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1788188674.544_1666Amsterdam_2026-08-31_02-45-05_385.png",
+      "author": "149145360156196864",
+      "date": "2026-09-03T12:37:15.501318",
+      "score": 22,
+      "ID": 11948,
+      "epochTime": 1788439035,
+      "spoiler": false,
+      "colorName": "indianred",
+      "message_id": 1543999951393001503
     }
   }
 }
