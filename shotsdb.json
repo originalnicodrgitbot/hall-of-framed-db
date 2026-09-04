@@ -179339,6 +179339,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1544756807937957980
+    },
+    "12081": {
+      "gameName": "Resonance: A Plague Tale Legacy",
+      "shotUrl": "https://cdn.framedsc.com/images/1788369133.9_Resonance_2026-08-27_13-20-14.PNG",
+      "height": 1600,
+      "width": 3963,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1788369133.9_Resonance_2026-08-27_13-20-14.PNG",
+      "author": "310528138067181572",
+      "date": "2026-09-04T12:41:45.533748",
+      "score": 23,
+      "ID": 11957,
+      "epochTime": 1788525705,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1544756852791971870
     }
   }
 }
