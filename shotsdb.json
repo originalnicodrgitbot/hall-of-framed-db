@@ -179819,6 +179819,21 @@
       "spoiler": false,
       "colorName": "darkslateblue",
       "message_id": 1545019262450671687
+    },
+    "12113": {
+      "gameName": "WILL: Follow the Light",
+      "shotUrl": "https://cdn.framedsc.com/images/1788557772.483_8-1.png",
+      "height": 1082,
+      "width": 1457,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1788557772.483_8-1.png",
+      "author": "865642450973622282",
+      "date": "2026-09-07T12:37:38.657042",
+      "score": 22,
+      "ID": 11989,
+      "epochTime": 1788784658,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1545548060354940938
     }
   }
 }
