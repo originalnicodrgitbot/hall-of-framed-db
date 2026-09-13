@@ -180044,6 +180044,21 @@
       "spoiler": false,
       "colorName": "darkgrey",
       "message_id": 1547693745884110971
+    },
+    "12128": {
+      "gameName": "Metal Gear Solid 2",
+      "shotUrl": "https://cdn.framedsc.com/images/1788809909.07_1000076332.jpg",
+      "height": 1061,
+      "width": 2300,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1788809909.07_1000076332.jpg",
+      "author": "764427456856981544",
+      "date": "2026-09-13T12:33:14.775633",
+      "score": 22,
+      "ID": 12004,
+      "epochTime": 1789302794,
+      "spoiler": false,
+      "colorName": "peru",
+      "message_id": 1546605597850337311
     }
   }
 }
