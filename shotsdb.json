@@ -180524,6 +180524,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1550304978521030678
+    },
+    "12160": {
+      "gameName": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "shotUrl": "https://cdn.framedsc.com/images/1789575829.636_Stalker2-Win64-Shipping_2026-09-16_01-38-51_177.png",
+      "height": 3240,
+      "width": 2430,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1789575829.636_Stalker2-Win64-Shipping_2026-09-16_01-38-51_177.png",
+      "author": "250677037499547649",
+      "date": "2026-09-19T12:39:45.636424",
+      "score": 22,
+      "ID": 12036,
+      "epochTime": 1789821585,
+      "spoiler": false,
+      "colorName": "brown",
+      "message_id": 1549818101544259725
     }
   }
 }
