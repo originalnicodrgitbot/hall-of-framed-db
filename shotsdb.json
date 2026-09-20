@@ -180644,6 +180644,21 @@
       "spoiler": false,
       "colorName": "darkkhaki",
       "message_id": 1550455562100285490
+    },
+    "12168": {
+      "gameName": "The Witcher 2: Assassins of Kings",
+      "shotUrl": "https://cdn.framedsc.com/images/1789708220.514_witcher2_2026-09-17_09-41-00-907.png",
+      "height": 1066,
+      "width": 853,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1789708220.514_witcher2_2026-09-17_09-41-00-907.png",
+      "author": "440105677667434496",
+      "date": "2026-09-20T12:40:46.297940",
+      "score": 23,
+      "ID": 12044,
+      "epochTime": 1789908046,
+      "spoiler": false,
+      "colorName": "lightgrey",
+      "message_id": 1550373389133160480
     }
   }
 }
