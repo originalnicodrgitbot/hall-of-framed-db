@@ -181109,6 +181109,21 @@
       "spoiler": false,
       "colorName": "sienna",
       "message_id": 1551474252723785761
+    },
+    "12199": {
+      "gameName": "ELDEN RING",
+      "shotUrl": "https://cdn.framedsc.com/images/1789981088.939_ELDEN_RINGTM_2026_4_11_20_51_49.png",
+      "height": 1440,
+      "width": 1440,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1789981088.939_ELDEN_RINGTM_2026_4_11_20_51_49.png",
+      "author": "1264774965249703937",
+      "date": "2026-09-22T12:50:31.442992",
+      "score": 25,
+      "ID": 12075,
+      "epochTime": 1790081431,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1551517882259734548
     }
   }
 }
