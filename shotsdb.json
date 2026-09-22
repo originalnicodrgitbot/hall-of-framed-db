@@ -181034,6 +181034,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1550982457761992830
+    },
+    "12194": {
+      "gameName": "Frostpunk 2",
+      "shotUrl": "https://cdn.framedsc.com/images/1789917189.457_Frostpunk2-Win64-Shipping_2026-09-19_18-16-29_23.png",
+      "height": 1646,
+      "width": 3840,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1789917189.457_Frostpunk2-Win64-Shipping_2026-09-19_18-16-29_23.png",
+      "author": "316870100667858944",
+      "date": "2026-09-22T12:46:02.109864",
+      "score": 22,
+      "ID": 12070,
+      "epochTime": 1790081162,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1551249868406788226
     }
   }
 }
