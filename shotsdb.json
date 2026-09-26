@@ -181499,6 +181499,21 @@
       "spoiler": false,
       "colorName": "firebrick",
       "message_id": 1552136683401781268
+    },
+    "12225": {
+      "gameName": "Control",
+      "shotUrl": "https://cdn.framedsc.com/images/1790155907.59_Control_Screenshot_2026-09-21_21-09-02_761_After.png",
+      "height": 1646,
+      "width": 3840,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1790155907.59_Control_Screenshot_2026-09-21_21-09-02_761_After.png",
+      "author": "770718209913389096",
+      "date": "2026-09-26T12:38:45.496627",
+      "score": 23,
+      "ID": 12101,
+      "epochTime": 1790426325,
+      "spoiler": false,
+      "colorName": "lightgrey",
+      "message_id": 1552251124826906684
     }
   }
 }
