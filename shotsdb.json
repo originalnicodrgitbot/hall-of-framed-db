@@ -181484,6 +181484,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1551885877100155020
+    },
+    "12224": {
+      "gameName": "THE HOUSE OF THE DEAD: Remake",
+      "shotUrl": "https://cdn.framedsc.com/images/1790128622.628_The_House_of_the_Dead_Remake_2026_09_22_14_32_29_946.png",
+      "height": 2160,
+      "width": 1728,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1790128622.628_The_House_of_the_Dead_Remake_2026_09_22_14_32_29_946.png",
+      "author": "440105677667434496",
+      "date": "2026-09-26T12:38:14.099356",
+      "score": 22,
+      "ID": 12100,
+      "epochTime": 1790426294,
+      "spoiler": false,
+      "colorName": "firebrick",
+      "message_id": 1552136683401781268
     }
   }
 }
