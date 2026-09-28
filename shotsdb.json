@@ -181784,6 +181784,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1553567954161901568
+    },
+    "12244": {
+      "gameName": "Onimusha: Way of the Sword",
+      "shotUrl": "https://cdn.framedsc.com/images/1790535224.86_Onimusha_Way_of_the_Sword_Screenshot_2026.09.14_-_12.27.07.94.png",
+      "height": 1134,
+      "width": 2644,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1790535224.86_Onimusha_Way_of_the_Sword_Screenshot_2026.09.14_-_12.27.07.94.png",
+      "author": "1264774965249703937",
+      "date": "2026-09-28T12:45:39.564098",
+      "score": 27,
+      "ID": 12120,
+      "epochTime": 1790599539,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1553842096769736706
     }
   }
 }
