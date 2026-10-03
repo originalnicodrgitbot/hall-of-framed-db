@@ -182294,6 +182294,21 @@
       "spoiler": false,
       "colorName": "darkgrey",
       "message_id": 1555258361761505354
+    },
+    "12278": {
+      "gameName": "Silent Hill f",
+      "shotUrl": "https://cdn.framedsc.com/images/1790814749.314_SHf-Win64-Shipping_2026-09-23_00-48-14_3072.png",
+      "height": 2400,
+      "width": 3600,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1790814749.314_SHf-Win64-Shipping_2026-09-23_00-48-14_3072.png",
+      "author": "80738520422944768",
+      "date": "2026-10-03T12:43:02.736336",
+      "score": 22,
+      "ID": 12154,
+      "epochTime": 1791031382,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1555014507305111713
     }
   }
 }
