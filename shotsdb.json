@@ -182969,6 +182969,21 @@
       "spoiler": false,
       "colorName": "lightgrey",
       "message_id": 1556403258073948170
+    },
+    "12323": {
+      "gameName": "Ace Combat 8: Wings of Theve",
+      "shotUrl": "https://cdn.framedsc.com/images/1791146887.087_AceCombat8_2026-10-05_04-07-12_4_.png",
+      "height": 1440,
+      "width": 2560,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1791146887.087_AceCombat8_2026-10-05_04-07-12_4_.png",
+      "author": "768431189358542888",
+      "date": "2026-10-06T12:44:09.487383",
+      "score": 22,
+      "ID": 12199,
+      "epochTime": 1791290649,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1556407594095087686
     }
   }
 }
