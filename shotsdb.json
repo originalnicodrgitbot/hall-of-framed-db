@@ -183929,6 +183929,21 @@
       "spoiler": false,
       "colorName": "darkkhaki",
       "message_id": 1558639510688899132
+    },
+    "12387": {
+      "gameName": "Assetto Corsa Rally",
+      "shotUrl": "https://cdn.framedsc.com/images/1791735943.214_acr1.png",
+      "height": 1646,
+      "width": 3840,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1791735943.214_acr1.png",
+      "author": "316870100667858944",
+      "date": "2026-10-12T12:25:29.782069",
+      "score": 24,
+      "ID": 12263,
+      "epochTime": 1791807929,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1558878274564784148
     }
   }
 }
