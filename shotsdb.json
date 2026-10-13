@@ -184034,6 +184034,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1558972144208318515
+    },
+    "12394": {
+      "gameName": "The Ascent",
+      "shotUrl": "https://cdn.framedsc.com/images/1791758960.441_TheAscent-Win64-Shipping_2026-10-09_05-26-20-091.png",
+      "height": 4320,
+      "width": 3456,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1791758960.441_TheAscent-Win64-Shipping_2026-10-09_05-26-20-091.png",
+      "author": "440105677667434496",
+      "date": "2026-10-13T12:20:49.829272",
+      "score": 22,
+      "ID": 12270,
+      "epochTime": 1791894049,
+      "spoiler": false,
+      "colorName": "khaki",
+      "message_id": 1558974815812194414
     }
   }
 }
