@@ -184514,6 +184514,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1559382511141003274
+    },
+    "12426": {
+      "gameName": "CONTROL Resonant",
+      "shotUrl": "https://cdn.framedsc.com/images/1791908028.194_CONTROLResonant_2026-10-13_18-10-22_10.png",
+      "height": 3291,
+      "width": 7680,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1791908028.194_CONTROLResonant_2026-10-13_18-10-22_10.png",
+      "author": "550054109286498325",
+      "date": "2026-10-15T12:19:43.226598",
+      "score": 27,
+      "ID": 12302,
+      "epochTime": 1792066783,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1559600051284738159
     }
   }
 }
