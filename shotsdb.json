@@ -185219,6 +185219,21 @@
       "spoiler": false,
       "colorName": "darkolivegreen",
       "message_id": 1561901171080298518
+    },
+    "12473": {
+      "gameName": "Clive Barker's Hellraiser Revival",
+      "shotUrl": "https://cdn.framedsc.com/images/1792516461.571_Hellraiser-Win64-Shipping_2026-10-20_19-32-48.png",
+      "height": 2700,
+      "width": 2313,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1792516461.571_Hellraiser-Win64-Shipping_2026-10-20_19-32-48.png",
+      "author": "475318080679968795",
+      "date": "2026-10-21T12:20:44.673406",
+      "score": 23,
+      "ID": 12349,
+      "epochTime": 1792585244,
+      "spoiler": false,
+      "colorName": "brown",
+      "message_id": 1562152005831626822
     }
   }
 }
