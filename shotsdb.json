@@ -185249,6 +185249,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1561658184551235604
+    },
+    "12475": {
+      "gameName": "The Blood of Dawnwalker",
+      "shotUrl": "https://cdn.framedsc.com/images/1792409126.203_Dawnwalker_2026-10-02_21-24-06_860.png",
+      "height": 1919,
+      "width": 4480,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1792409126.203_Dawnwalker_2026-10-02_21-24-06_860.png",
+      "author": "305036516269359104",
+      "date": "2026-10-22T12:13:06.515346",
+      "score": 23,
+      "ID": 12351,
+      "epochTime": 1792671186,
+      "spoiler": false,
+      "colorName": "rosybrown",
+      "message_id": 1561701808668278824
     }
   }
 }
