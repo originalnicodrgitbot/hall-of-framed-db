@@ -185324,6 +185324,21 @@
       "spoiler": false,
       "colorName": "gainsboro",
       "message_id": 1562080463600754770
+    },
+    "12480": {
+      "gameName": "Control Resonant",
+      "shotUrl": "https://cdn.framedsc.com/images/1792503340.807_red_windows.png",
+      "height": 1080,
+      "width": 1920,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1792503340.807_red_windows.png",
+      "author": "446743605529280522",
+      "date": "2026-10-22T12:17:23.399440",
+      "score": 23,
+      "ID": 12356,
+      "epochTime": 1792671443,
+      "spoiler": false,
+      "colorName": "firebrick",
+      "message_id": 1562096973358825575
     }
   }
 }
