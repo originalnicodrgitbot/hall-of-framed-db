@@ -185504,6 +185504,21 @@
       "spoiler": false,
       "colorName": "cadetblue",
       "message_id": 1562482901944246435
+    },
+    "12492": {
+      "gameName": "Ghost of Yotei",
+      "shotUrl": "https://cdn.framedsc.com/images/1792597975.41_1a15b39198340-screenshotUrl.png",
+      "height": 1218,
+      "width": 3654,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1792597975.41_1a15b39198340-screenshotUrl.png",
+      "author": "628969463386996759",
+      "date": "2026-10-23T12:16:46.558890",
+      "score": 24,
+      "ID": 12368,
+      "epochTime": 1792757806,
+      "spoiler": false,
+      "colorName": "lightgrey",
+      "message_id": 1562493899652472842
     }
   }
 }
