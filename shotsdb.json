@@ -185654,6 +185654,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1562986273042473012
+    },
+    "12502": {
+      "gameName": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+      "shotUrl": "https://cdn.framedsc.com/images/1792715530.385_mgsvtpp_2025-10-14_12-49-46-851.png",
+      "height": 2700,
+      "width": 2160,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1792715530.385_mgsvtpp_2025-10-14_12-49-46-851.png",
+      "author": "440105677667434496",
+      "date": "2026-10-24T12:16:33.928308",
+      "score": 29,
+      "ID": 12378,
+      "epochTime": 1792844193,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1562986960954458153
     }
   }
 }
