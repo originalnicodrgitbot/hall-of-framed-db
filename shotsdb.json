@@ -185924,6 +185924,21 @@
       "spoiler": false,
       "colorName": "darkturquoise",
       "message_id": 1563715993555963925
+    },
+    "12520": {
+      "gameName": "The Witcher 3 Wild Hunt: Remastered",
+      "shotUrl": "https://cdn.framedsc.com/images/1792895514.268_The_Witcher_3_Super-Resolution_2026.10.24_-_13.04.11.09.png",
+      "height": 5760,
+      "width": 4608,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1792895514.268_The_Witcher_3_Super-Resolution_2026.10.24_-_13.04.11.09.png",
+      "author": "737427688482144307",
+      "date": "2026-10-26T12:22:27.587045",
+      "score": 28,
+      "ID": 12396,
+      "epochTime": 1793017347,
+      "spoiler": false,
+      "colorName": "darkolivegreen",
+      "message_id": 1563741868074860625
     }
   }
 }
