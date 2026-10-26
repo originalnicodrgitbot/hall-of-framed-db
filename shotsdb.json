@@ -185894,6 +185894,21 @@
       "spoiler": false,
       "colorName": "darkolivegreen",
       "message_id": 1563707439029682236
+    },
+    "12518": {
+      "gameName": "Final Fantasy VII Rebirth",
+      "shotUrl": "https://cdn.framedsc.com/images/1792889339.497_ff7rebirth__2026-10-12_20-24-28_582.png",
+      "height": 2800,
+      "width": 2240,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1792889339.497_ff7rebirth__2026-10-12_20-24-28_582.png",
+      "author": "80738520422944768",
+      "date": "2026-10-26T12:21:14.231009",
+      "score": 22,
+      "ID": 12394,
+      "epochTime": 1793017274,
+      "spoiler": false,
+      "colorName": "silver",
+      "message_id": 1563715969208164482
     }
   }
 }
