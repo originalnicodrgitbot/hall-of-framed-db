@@ -185969,6 +185969,21 @@
       "spoiler": false,
       "colorName": "lavender",
       "message_id": 1563768892365738095
+    },
+    "12523": {
+      "gameName": "Resident Evil 2",
+      "shotUrl": "https://cdn.framedsc.com/images/1792919404.669_re2_2026-10-25_12-27-43_3_copy.png",
+      "height": 1204,
+      "width": 2812,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1792919404.669_re2_2026-10-25_12-27-43_3_copy.png",
+      "author": "797413306032848896",
+      "date": "2026-10-26T12:24:18.095315",
+      "score": 34,
+      "ID": 12399,
+      "epochTime": 1793017458,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1563842071679205388
     }
   }
 }
