@@ -186044,6 +186044,21 @@
       "spoiler": false,
       "colorName": "tan",
       "message_id": 1562921369673539724
+    },
+    "12528": {
+      "gameName": "Onimusha: Way of the Sword",
+      "shotUrl": "https://cdn.framedsc.com/images/1792873858.168_OnimushaWotS_2026-10-24_22-44-26_3-wonder-3-5_.png",
+      "height": 2196,
+      "width": 5120,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1792873858.168_OnimushaWotS_2026-10-24_22-44-26_3-wonder-3-5_.png",
+      "author": "768431189358542888",
+      "date": "2026-10-27T12:14:50.793095",
+      "score": 23,
+      "ID": 12404,
+      "epochTime": 1793103290,
+      "spoiler": false,
+      "colorName": "rosybrown",
+      "message_id": 1563651035807883264
     }
   }
 }
