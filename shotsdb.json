@@ -187019,6 +187019,21 @@
       "spoiler": false,
       "colorName": "burlywood",
       "message_id": 1568190952278069248
+    },
+    "12593": {
+      "gameName": "Ace Combat 8",
+      "shotUrl": "https://cdn.framedsc.com/images/1793806812.324_AceCombat8_2026-10-29_22-06-30_17.png",
+      "height": 2160,
+      "width": 3240,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1793806812.324_AceCombat8_2026-10-29_22-06-30_17.png",
+      "author": "316870100667858944",
+      "date": "2026-11-08T11:41:18.159630",
+      "score": 23,
+      "ID": 12469,
+      "epochTime": 1794138078,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1567564129156472993
     }
   }
 }
