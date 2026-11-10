@@ -173771,7 +173771,7 @@
       "score": 24,
       "ID": 11585,
       "epochTime": 1785761790,
-      "spoiler": false,
+      "spoiler": true,
       "colorName": "lightgrey",
       "message_id": 1531763294652596365
     },
@@ -186611,7 +186611,7 @@
       "score": 24,
       "ID": 12441,
       "epochTime": 1793621996,
-      "spoiler": false,
+      "spoiler": true,
       "colorName": "grey",
       "message_id": 1565941670728437851
     },
@@ -186626,7 +186626,7 @@
       "score": 22,
       "ID": 12442,
       "epochTime": 1793622031,
-      "spoiler": false,
+      "spoiler": true,
       "colorName": "sienna",
       "message_id": 1565941865927278723
     },
