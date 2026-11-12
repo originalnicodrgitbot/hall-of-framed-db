@@ -187304,6 +187304,21 @@
       "spoiler": false,
       "colorName": "indianred",
       "message_id": 1569808345865650306
+    },
+    "12612": {
+      "gameName": "Death Stranding 2: On the Beach",
+      "shotUrl": "https://cdn.framedsc.com/images/1794358166.894_DS2_2026-11-11_00-25-40_476.png",
+      "height": 1919,
+      "width": 4480,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1794358166.894_DS2_2026-11-11_00-25-40_476.png",
+      "author": "80738520422944768",
+      "date": "2026-11-12T12:24:24.436948",
+      "score": 24,
+      "ID": 12488,
+      "epochTime": 1794486264,
+      "spoiler": false,
+      "colorName": "peru",
+      "message_id": 1569876677834842113
     }
   }
 }
