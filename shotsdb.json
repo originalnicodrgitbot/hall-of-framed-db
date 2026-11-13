@@ -187424,6 +187424,21 @@
       "spoiler": false,
       "colorName": "rosybrown",
       "message_id": 1570495122662096996
+    },
+    "12620": {
+      "gameName": "Phantom Blade Zero",
+      "shotUrl": "https://cdn.framedsc.com/images/1794505620.712_PBZ_2026-11-08_12-58-08.PNG",
+      "height": 1600,
+      "width": 3840,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1794505620.712_PBZ_2026-11-08_12-58-08.PNG",
+      "author": "310528138067181572",
+      "date": "2026-11-13T12:26:17.035398",
+      "score": 23,
+      "ID": 12496,
+      "epochTime": 1794572777,
+      "spoiler": false,
+      "colorName": "rosybrown",
+      "message_id": 1570495143973490821
     }
   }
 }
