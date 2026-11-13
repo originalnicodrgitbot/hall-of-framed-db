@@ -187364,6 +187364,21 @@
       "spoiler": false,
       "colorName": "mediumturquoise",
       "message_id": 1570246089041510482
+    },
+    "12616": {
+      "gameName": "The Legend of Zelda: Ocarina of Time",
+      "shotUrl": "https://cdn.framedsc.com/images/1794470281.725_Zelda_Ocarina_of_time_OoT_Link_Malon_Epona_Navi_001.png",
+      "height": 2160,
+      "width": 3840,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1794470281.725_Zelda_Ocarina_of_time_OoT_Link_Malon_Epona_Navi_001.png",
+      "author": "207927000864653313",
+      "date": "2026-11-13T12:22:46.341167",
+      "score": 23,
+      "ID": 12492,
+      "epochTime": 1794572566,
+      "spoiler": false,
+      "colorName": "lightgrey",
+      "message_id": 1570346921518956634
     }
   }
 }
