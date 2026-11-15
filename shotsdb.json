@@ -187844,6 +187844,21 @@
       "spoiler": false,
       "colorName": "darkseagreen",
       "message_id": 1571135257644896386
+    },
+    "12648": {
+      "gameName": "Ghost of Y\u014dtei",
+      "shotUrl": "https://cdn.framedsc.com/images/1794658250.437_Ghost_of_Yotei_20261024195346.png",
+      "height": 1646,
+      "width": 3840,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1794658250.437_Ghost_of_Yotei_20261024195346.png",
+      "author": "588031215714566148",
+      "date": "2026-11-15T12:34:53.961848",
+      "score": 30,
+      "ID": 12524,
+      "epochTime": 1794746093,
+      "spoiler": false,
+      "colorName": "whitesmoke",
+      "message_id": 1571135319439573174
     }
   }
 }
