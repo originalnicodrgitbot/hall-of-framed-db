@@ -187694,6 +187694,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1570799228639252556
+    },
+    "12638": {
+      "gameName": "Ghost of Y\u014dtei",
+      "shotUrl": "https://cdn.framedsc.com/images/1794587404.174_ShaderLab_2026-11-01_10-34-21_22.png",
+      "height": 859,
+      "width": 2048,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1794587404.174_ShaderLab_2026-11-01_10-34-21_22.png",
+      "author": "260858854877822976",
+      "date": "2026-11-15T12:27:56.888668",
+      "score": 22,
+      "ID": 12514,
+      "epochTime": 1794745676,
+      "spoiler": false,
+      "colorName": "tan",
+      "message_id": 1570838168675160205
     }
   }
 }
