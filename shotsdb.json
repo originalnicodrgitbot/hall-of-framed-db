@@ -188369,6 +188369,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1572413389454577815
+    },
+    "12683": {
+      "gameName": "Clair Obscur: Expedition 33",
+      "shotUrl": "https://cdn.framedsc.com/images/1795001781.007_SandFallGOG-Win64-Shipping_2026-11-17_20-53-47_420.png",
+      "height": 2880,
+      "width": 2304,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1795001781.007_SandFallGOG-Win64-Shipping_2026-11-17_20-53-47_420.png",
+      "author": "305036516269359104",
+      "date": "2026-11-19T21:23:55.118723",
+      "score": 25,
+      "ID": 12559,
+      "epochTime": 1795123435,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1572576191083323463
     }
   }
 }
