@@ -188309,6 +188309,21 @@
       "spoiler": false,
       "colorName": "darksalmon",
       "message_id": 1572265590549254165
+    },
+    "12679": {
+      "gameName": "Monster Hunter Wilds",
+      "shotUrl": "https://cdn.framedsc.com/images/1794949765.849_MonsterHunterWilds_2026-01-12_23-41-19-2.png",
+      "height": 3240,
+      "width": 2592,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1794949765.849_MonsterHunterWilds_2026-01-12_23-41-19-2.png",
+      "author": "128245457141891072",
+      "date": "2026-11-19T21:20:51.807180",
+      "score": 26,
+      "ID": 12555,
+      "epochTime": 1795123251,
+      "spoiler": false,
+      "colorName": "indianred",
+      "message_id": 1572358023698063452
     }
   }
 }
