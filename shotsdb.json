@@ -188624,6 +188624,21 @@
       "spoiler": false,
       "colorName": "burlywood",
       "message_id": 1573466700987367474
+    },
+    "12700": {
+      "gameName": "Grand Theft Auto VI",
+      "shotUrl": "https://cdn.framedsc.com/images/1795214119.386_Grand_Theft_Auto_VI_20261120010834-3.png",
+      "height": 1620,
+      "width": 3840,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1795214119.386_Grand_Theft_Auto_VI_20261120010834-3.png",
+      "author": "576442964163690527",
+      "date": "2026-11-21T21:21:28.875496",
+      "score": 29,
+      "ID": 12576,
+      "epochTime": 1795296088,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1573466802795577547
     }
   }
 }
