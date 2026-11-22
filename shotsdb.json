@@ -188654,6 +188654,21 @@
       "spoiler": false,
       "colorName": "silver",
       "message_id": 1572265656894881916
+    },
+    "12702": {
+      "gameName": "GTA VI",
+      "shotUrl": "https://cdn.framedsc.com/images/1795098942.074_1a1f42bf9df33-screenshotUrl.jpg",
+      "height": 2943,
+      "width": 2159,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1795098942.074_1a1f42bf9df33-screenshotUrl.jpg",
+      "author": "417334153978052608",
+      "date": "2026-11-22T21:13:23.091268",
+      "score": 22,
+      "ID": 12578,
+      "epochTime": 1795382003,
+      "spoiler": false,
+      "colorName": "coral",
+      "message_id": 1572983714135285832
     }
   }
 }
