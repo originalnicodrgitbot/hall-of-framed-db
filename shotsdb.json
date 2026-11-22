@@ -188759,6 +188759,21 @@
       "spoiler": false,
       "colorName": "rosybrown",
       "message_id": 1573645808786608280
+    },
+    "12709": {
+      "gameName": "Assassin's Creed Syndicate",
+      "shotUrl": "https://cdn.framedsc.com/images/1795293531.603_ACS_2026-11-13_15-16-10_crrs.png",
+      "height": 1440,
+      "width": 1132,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1795293531.603_ACS_2026-11-13_15-16-10_crrs.png",
+      "author": "550752303720824832",
+      "date": "2026-11-22T21:20:04.963815",
+      "score": 25,
+      "ID": 12585,
+      "epochTime": 1795382404,
+      "spoiler": false,
+      "colorName": "darkgrey",
+      "message_id": 1573799881775128637
     }
   }
 }
