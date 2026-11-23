@@ -188864,6 +188864,21 @@
       "spoiler": false,
       "colorName": "gainsboro",
       "message_id": 1574025205372690472
+    },
+    "12716": {
+      "gameName": "Clair Obscur: Expedition 33",
+      "shotUrl": "https://cdn.framedsc.com/images/1795352253.956_SandFall-Win64-Shipping_2026-11-22_12-21-46_1702.png",
+      "height": 1644,
+      "width": 3840,
+      "thumbnailUrl": "https://cdn.framedsc.com/thumbnails/1795352253.956_SandFall-Win64-Shipping_2026-11-22_12-21-46_1702.png",
+      "author": "1056582870958870619",
+      "date": "2026-11-23T21:18:33.870335",
+      "score": 23,
+      "ID": 12592,
+      "epochTime": 1795468713,
+      "spoiler": false,
+      "colorName": "tan",
+      "message_id": 1574046181175070900
     }
   }
 }
